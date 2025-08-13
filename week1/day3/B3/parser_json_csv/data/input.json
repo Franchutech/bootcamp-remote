@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Pérez",
+    "email": "ana.perez@example.com",
+    "age": 28,
+    "registered_at": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "name": "Luis Gómez",
+    "email": "luis.gomez@example.com",
+    "age": 35,
+    "registered_at": "2025-08-02"
+  },
+  {
+    "id": 3,
+    "name": "Marta Ruiz",
+    "email": "marta.ruiz@example.com",
+    "age": 22,
+    "registered_at": "2025-08-03"
+  }
+]
