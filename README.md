@@ -24,12 +24,18 @@ All work is organized in folders by week, including:
 **Week 1**
 - **Day 1** → Terminal basics, Python intro, first scripts.  
 - **Day 2** → Loops (`for`, `while`), pseudocode, basic exercises.  
-- **Day 3** → Data structures, file handling (JSON/XML), mini-project `parser_json_csv`.
+- **Day 3** → Data structures, file handling (JSON/XML), mini-project `parser_json_csv`.  
+- **Day 4** →  
+  - **B1:** Advanced Excel Reminder → XLOOKUP, INDEX MATCH, SUMIF/SUMIFS, TEXT, simple PivotTable. (`advanced_excel_reminder.xlsx`)  
+  - **B2:** Power Query Advanced (Before/After) → Cleaning, deduplication, transformations. (`power_query_practice.xlsx`)  
+  - **B3:** Sales Dashboard → Dataset of 3,000+ rows with KPIs, PivotTables, slicers, 4 dynamic charts, professional design, navigation buttons, formatted in millions of euros, and documented with screenshots & GitHub/LinkedIn links. (`Sales_Dashboard.xlsx`)
 
 **[See detailed weekly progress →](week1/README.md)**
 
 ---
 
 ## 📌 Next Steps
-- Week 1 Day 4 → Functions in depth, error handling, project extensions.
-- Continue daily documentation in `weekX/dayY` folders.
+- **Week 1 Day 5 →**
+  - **B1:** SQL fundamentals (SELECT, WHERE, ORDER, LIMIT)  
+  - **B2:** MySQL CRUD (CREATE, INSERT, UPDATE, DELETE)  
+  - **B3:** Import sales dataset into MySQL + 5 typical queries
