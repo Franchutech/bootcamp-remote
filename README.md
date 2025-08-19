@@ -24,42 +24,33 @@ All work is organized in folders by week, including:
 
 ## 📅 Progress Overview
 
-**Week 1**  
-- **Day 1** → Terminal basics, Git/GitHub setup, Python intro.  
-- **Day 2** → Python loops (`for`, `while`), pseudocode, basic katas.  
-- **Day 3** → Data structures (lists, dicts, functions), small project with JSON/CSV parsing.  
-- **Day 4** →  
-  - **B1:** Advanced Excel Reminder → XLOOKUP, INDEX MATCH, SUMIF/SUMIFS, TEXT, PivotTable. (`advanced_excel_reminder.xlsx`)  
-  - **B2:** Power Query Advanced (Before/After) → Cleaning, deduplication, transformations. (`power_query_practice.xlsx`)  
-  - **B3:** Sales Dashboard → Dataset of 3,000+ rows with KPIs, PivotTables, slicers, 4 dynamic charts, professional design, navigation buttons, formatted in millions of euros, and documented with screenshots & GitHub/LinkedIn links. (`Sales_Dashboard.xlsx`)  
-- **Day 5** →  
-  - **B1:** SQL Fundamentals → Create database `bootcamp_db`, table `clientes`, and queries with `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`.  
-  - **B2:** MySQL CRUD → Script `crud_clientes.sql` with table `productos`, applying Create, Read, Update, Delete operations.  
-  - **B3:** Case Study `ventas.sql` → Table `ventas` with fields `producto`, `cantidad`, `precio_unitario`, `fecha`. Inserted 5 records and performed typical sales queries.  
-- **Day 6** →  
-  - **B1:** Pandas Basics → Creation of DataFrames from dictionaries, saving/exporting to CSV, understanding `import pandas as pd` as professional standard.  
-  - **B2:** Debugging in VS Code → Using breakpoints to pause execution, exploring `ZeroDivisionError`, analyzing variables, and understanding how to fix errors.  
-  - **B3:** Mini ETL Project →  
-    - **Extract**: simulated product dataset  
-    - **Transform**: filter products with stock > 20  
-    - **Load**: export clean dataset to `productos_limpios.csv`  
-    - Implemented in `week1/day6/B3/b3_intro.py`  
+### ✅ Week 1 — Fundamentals, Python, SQL & Excel
 
-📎 **[See detailed weekly progress →](week1/README.md)**
+**Summary:**  
+The first week focused on setting up a professional development environment and acquiring solid foundations in data handling and automation tools.  
+
+**Main achievements:**  
+- Full environment setup (WSL + Ubuntu, VS Code, Git/GitHub, Python 3.12, MySQL).  
+- Strong foundation in **Python**: variables, conditionals, loops, data structures, file handling, JSON/CSV parsing, pandas introduction, and debugging with breakpoints.  
+- Hands-on practice in **SQL (MySQL)**: database creation, CRUD operations, and sales queries.  
+- Advanced **Excel & Power Query** project: creation of a professional sales dashboard with KPIs, slicers, charts, and interactive navigation.  
+- First **ETL pipeline** implemented with Python + pandas (extract, transform, load a dataset into CSV).  
+
+📎 **Detailed progress and daily documentation:** [Week 1 →](./week1/README.md)
 
 ---
 
 ## 🌟 Skills Developed So Far
 
-- **Terminal / Bash** → File navigation, package installation, process management.  
-- **Git & GitHub** → Branches, pull requests, structured repositories with professional README.  
-- **Python** → Data types, control flow, functions, JSON/CSV parsing, pandas basics, debugging with breakpoints.  
-- **Excel Advanced** → XLOOKUP, SUMIFS, PivotTables, Power Query transformations, dashboards.  
-- **SQL (MySQL)** → Database creation, CRUD operations, queries with filters and ordering, dataset integration.  
-- **ETL Process** → Extract, Transform, Load pipeline implemented with Python + pandas.  
+- **Environment / Tools**: Git, GitHub, VS Code, WSL (Ubuntu), MySQL.  
+- **Programming (Python)**: Control flow, functions, error handling, JSON/CSV parsing, pandas basics.  
+- **Data Analysis (Excel)**: Advanced formulas, PivotTables, Power Query, dashboards.  
+- **Databases (SQL)**: Create/manage databases, CRUD, query optimization basics.  
+- **Data Engineering Basics**: First ETL mini-project combining Python, SQL, and Excel.  
 
 ---
 
 ## 📌 Next Steps
 
-🇺🇦 **Week 2 — Data: Pandas/NumPy, Visualization, APIs and Power BI (63 h)**  
+🇺🇦 **Week 2 — Data Handling & Visualization (Pandas, NumPy, APIs, Power BI, 63h)**  
+Focus: strengthen Python data analysis, learn data visualization, work with external APIs, and start building interactive dashboards in Power BI.
