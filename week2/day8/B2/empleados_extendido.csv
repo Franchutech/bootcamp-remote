@@ -1,0 +1,11 @@
+id_empleado,nombre,edad,departamento,salario,años_experiencia,ciudad,estado,fecha_ingreso
+5463,Ana Pérez,29,IT,3200,5,Madrid,activo,2019-03-15
+7821,Luis Gómez,45,Finanzas,4100,20,Barcelona,activo,2005-07-01
+6345,María López,34,Marketing,2800,8,Valencia,inactivo,2012-09-23
+8920,Carlos Ruiz,25,IT,2900,3,Madrid,activo,2021-01-10
+1287,Lucía Torres,38,Recursos Humanos,3000,12,Sevilla,activo,2010-11-05
+4532,Pedro Sánchez,50,Finanzas,4600,25,Bilbao,inactivo,1999-05-18
+9753,Laura Martín,41,Marketing,3100,15,Zaragoza,activo,2008-02-28
+2648,Javier Ramos,28,IT,2700,4,Granada,activo,2020-06-11
+8364,Sofía Díaz,33,Recursos Humanos,2950,9,Madrid,inactivo,2013-10-21
+1029,Andrés Molina,36,Finanzas,3800,14,Barcelona,activo,2011-04-07

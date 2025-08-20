@@ -1,0 +1,11 @@
+id_empleado,nombre,edad,departamento,salario,años_experiencia,ciudad,fecha_ingreso,año_ingreso,mes_ingreso,dia_ingreso,dia_semana,antiguedad_años
+2001,Ana Pérez,30,Finanzas,3200,5,Madrid,2020-10-05,2020,10,5,Monday,4
+2002,Luis Gómez,39,IT,4100,7,Barcelona,2002-01-01,2002,1,1,Tuesday,23
+2003,María López,28,Recursos Humanos,3500,3,Valencia,2003-01-01,2003,1,1,Wednesday,22
+2004,Carlos Ruiz,35,Marketing,2900,10,Sevilla,2004-01-01,2004,1,1,Thursday,21
+2005,Lucía Torres,40,Finanzas,3000,12,Bilbao,2005-01-01,2005,1,1,Saturday,20
+2006,Pedro Sánchez,45,IT,4600,20,Madrid,2006-01-01,2006,1,1,Sunday,19
+2007,Laura Martín,29,Marketing,3100,6,Zaragoza,2007-01-01,2007,1,1,Monday,18
+2008,Sofía Díaz,39,Finanzas,2950,4,Málaga,2008-01-01,2008,1,1,Tuesday,17
+2009,Andrés Molina,50,IT,3800,25,Valencia,2009-01-01,2009,1,1,Thursday,16
+2010,Javier Ramos,33,Recursos Humanos,2700,8,Murcia,2021-05-10,2021,5,10,Monday,4

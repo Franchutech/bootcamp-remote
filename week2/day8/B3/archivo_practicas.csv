@@ -1,0 +1,16 @@
+id_empleado,nombre,edad,departamento,salario,ciudad,fecha_ingreso
+1001,Ana Pérez,30,Finanzas,3200,Madrid,2020-03-15
+1002,Luis Gómez,39,IT,4100,Barcelona,2018-07-10
+1003,María López,28,Recursos Humanos,3500,Valencia,2021-01-20
+1004,Carlos Ruiz,35,Marketing,2900,Sevilla,2019-11-05
+1005,Laura Díaz,42,IT,5000,Bilbao,2016-05-13
+1006,Pedro Sánchez,29,Finanzas,3100,Málaga,2022-02-01
+1007,Lucía Romero,33,Logística,2700,Madrid,2017-06-18
+1008,Andrés Torres,45,Marketing,4600,Valencia,2015-09-25
+1009,Isabel Vargas,31,IT,3800,Barcelona,2020-12-11
+1010,David Martín,26,Recursos Humanos,2800,Sevilla,2022-06-30
+1011,Carmen Alonso,37,Finanzas,4100,Madrid,2018-08-19
+1012,Sergio Castro,41,Logística,3300,Bilbao,2016-10-22
+1013,Natalia Blanco,34,IT,4700,Málaga,2019-03-12
+1014,Jorge Ramos,29,Marketing,2900,Valencia,2021-09-14
+1015,Elena Navarro,36,Recursos Humanos,3600,Sevilla,2017-01-07

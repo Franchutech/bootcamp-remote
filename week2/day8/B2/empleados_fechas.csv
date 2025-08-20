@@ -1,0 +1,11 @@
+id_empleado,nombre,edad,departamento,salario,años_experiencia,ciudad,fecha_ingreso
+2001,Ana Pérez,30,Finanzas,3200,5,Madrid,2020-05-10
+2002,Luis Gómez,39,IT,4100,7,Barcelona,2018/03/15
+2003,María López,28,Recursos Humanos,3500,3,Valencia,15-07-2019
+2004,Carlos Ruiz,35,Marketing,2900,10,Sevilla,01/09/2021
+2005,Lucía Torres,40,Finanzas,3000,12,Bilbao,2017.11.23
+2006,Pedro Sánchez,45,IT,4600,20,Madrid,2015-02-28
+2007,Laura Martín,29,Marketing,3100,6,Zaragoza,2019/12/01
+2008,Sofía Díaz,39,Finanzas,2950,4,Málaga,03-04-2020
+2009,Andrés Molina,50,IT,3800,25,Valencia,2016.07.30
+2010,Javier Ramos,33,Recursos Humanos,2700,8,Murcia,2021-10-05

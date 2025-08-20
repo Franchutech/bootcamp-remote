@@ -1,0 +1,10 @@
+id_empleado,nombre,edad,departamento,salario,años_experiencia,ciudad
+1001,Ana Pérez,30.0,Finanzas,3200.0,5,Madrid
+1002,Luis Gómez,39.111111111111114,IT,4100.0,7,Barcelona
+1003,María López,28.0,Recursos Humanos,3500.0,3,Valencia
+1004,Carlos Ruiz,35.0,Sin Asignar,2900.0,10,Sevilla
+1005,Lucía Torres,40.0,Finanzas,3000.0,12,Bilbao
+1006,Pedro Sánchez,45.0,IT,4600.0,20,Madrid
+1007,Laura Martín,29.0,Marketing,3100.0,6,Zaragoza
+1008,Sofía Díaz,39.111111111111114,Finanzas,2950.0,4,Málaga
+1009,Andrés Molina,50.0,IT,3800.0,25,Valencia
