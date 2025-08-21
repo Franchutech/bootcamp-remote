@@ -40,17 +40,18 @@ The first week focused on setting up a professional development environment and 
 
 ---
 
-## 🌟 Skills Developed So Far
+### 🚧 Week 2 — Data Handling & Visualization (in progress)
 
-- **Environment / Tools**: Git, GitHub, VS Code, WSL (Ubuntu), MySQL.  
-- **Programming (Python)**: Control flow, functions, error handling, JSON/CSV parsing, pandas basics.  
-- **Data Analysis (Excel)**: Advanced formulas, PivotTables, Power Query, dashboards.  
-- **Databases (SQL)**: Create/manage databases, CRUD, query optimization basics.  
-- **Data Engineering Basics**: First ETL mini-project combining Python, SQL, and Excel.  
+**Summary:**  
+The second week focuses on strengthening Python data analysis, learning data visualization, working with external APIs, and building interactive dashboards in Power BI.  
 
----
+**Main achievements so far (Days 8–10):**  
+- **Day 8:** Pandas — reading CSV/JSON files, data inspection, selection (`loc/iloc`), cleaning (nulls, duplicates, types, dates). Notebook with 20 guided exercises.  
+- **Day 9:** NumPy basics (arrays, shape, broadcasting). Pandas advanced operations: groupby, aggregations, joins. Practical KPIs (averages, top N, trends).  
+- **Day 10:** Data visualization introduction.  
+  - **Matplotlib:** line, bar, histogram, and subplot charts with full customization.  
+  - **Seaborn:** statistical plots (catplot, histplot, heatmap of correlations).  
+  - **Notebook `viz.ipynb`:** 6–8 visualizations documented as a professional report.  
 
-## 📌 Next Steps
+📎 **Detailed progress and daily documentation:** [Week 2 →](./week2/README.md)
 
-🇺🇦 **Week 2 — Data Handling & Visualization (Pandas, NumPy, APIs, Power BI, 63h)**  
-Focus: strengthen Python data analysis, learn data visualization, work with external APIs, and start building interactive dashboards in Power BI.
