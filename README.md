@@ -45,13 +45,13 @@ The first week focused on setting up a professional development environment and 
 **Summary:**  
 The second week focuses on strengthening Python data analysis, learning data visualization, working with external APIs, and building interactive dashboards in Power BI.  
 
-**Main achievements so far (Days 8–10):**  
+**Main achievements so far (Days 8–11):**  
 - **Day 8:** Pandas — reading CSV/JSON files, data inspection, selection (`loc/iloc`), cleaning (nulls, duplicates, types, dates). Notebook with 20 guided exercises.  
 - **Day 9:** NumPy basics (arrays, shape, broadcasting). Pandas advanced operations: groupby, aggregations, joins. Practical KPIs (averages, top N, trends).  
 - **Day 10:** Data visualization introduction.  
   - **Matplotlib:** line, bar, histogram, and subplot charts with full customization.  
   - **Seaborn:** statistical plots (catplot, histplot, heatmap of correlations).  
   - **Notebook `viz.ipynb`:** 6–8 visualizations documented as a professional report.  
+- **Day 11:** APIs — introduction to Postman, HTTP requests, tokens and headers. Transition to Python (`requests`) with real use cases: JSONPlaceholder, NASA APOD, Countries, AviationStack (flights), and MET Museum (art). Data saved in JSON/CSV with clear documentation.
 
 📎 **Detailed progress and daily documentation:** [Week 2 →](./week2/README.md)
-

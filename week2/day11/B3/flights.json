@@ -1,0 +1,232 @@
+[
+    {
+        "flight_date": "2025-08-24",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Shanghai Pudong International",
+            "timezone": "Asia/Shanghai",
+            "iata": "PVG",
+            "icao": "ZSPD",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-08-24T02:05:00+00:00",
+            "estimated": "2025-08-24T02:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tianjin Binhai International",
+            "timezone": "Asia/Shanghai",
+            "iata": "TSN",
+            "icao": "ZBTJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-08-24T04:20:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Suparna Airlines",
+            "iata": "Y8",
+            "icao": "YZR"
+        },
+        "flight": {
+            "number": "7941",
+            "iata": "Y87941",
+            "icao": "YZR7941",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-08-24",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Shanghai Pudong International",
+            "timezone": "Asia/Shanghai",
+            "iata": "PVG",
+            "icao": "ZSPD",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-08-24T02:05:00+00:00",
+            "estimated": "2025-08-24T02:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Beijing Capital International",
+            "timezone": "Asia/Shanghai",
+            "iata": "PEK",
+            "icao": "ZBAA",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-08-24T04:25:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Suparna Airlines",
+            "iata": "Y8",
+            "icao": "YZR"
+        },
+        "flight": {
+            "number": "7929",
+            "iata": "Y87929",
+            "icao": "YZR7929",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-08-24",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Shanghai Pudong International",
+            "timezone": "Asia/Shanghai",
+            "iata": "PVG",
+            "icao": "ZSPD",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-08-24T02:05:00+00:00",
+            "estimated": "2025-08-24T02:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tianjin Binhai International",
+            "timezone": "Asia/Shanghai",
+            "iata": "TSN",
+            "icao": "ZBTJ",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-08-24T04:05:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Suparna Airlines",
+            "iata": "Y8",
+            "icao": "YZR"
+        },
+        "flight": {
+            "number": "7405",
+            "iata": "Y87405",
+            "icao": "YZR7405",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-08-24",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Shanghai Pudong International",
+            "timezone": "Asia/Shanghai",
+            "iata": "PVG",
+            "icao": "ZSPD",
+            "terminal": null,
+            "gate": null,
+            "delay": 10,
+            "scheduled": "2025-08-24T02:05:00+00:00",
+            "estimated": "2025-08-24T02:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Los Angeles International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAX",
+            "icao": "KLAX",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-08-23T23:00:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air China LTD",
+            "iata": "CA",
+            "icao": "CCA"
+        },
+        "flight": {
+            "number": "8417",
+            "iata": "CA8417",
+            "icao": "CCA8417",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-08-24",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Shanghai Pudong International",
+            "timezone": "Asia/Shanghai",
+            "iata": "PVG",
+            "icao": "ZSPD",
+            "terminal": null,
+            "gate": null,
+            "delay": null,
+            "scheduled": "2025-08-24T02:05:00+00:00",
+            "estimated": "2025-08-24T02:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ted Stevens Anchorage International Airport",
+            "timezone": "America/Anchorage",
+            "iata": "ANC",
+            "icao": "PANC",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "scheduled": "2025-08-23T18:40:00+00:00",
+            "delay": null,
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Air China LTD",
+            "iata": "CA",
+            "icao": "CCA"
+        },
+        "flight": {
+            "number": "8411",
+            "iata": "CA8411",
+            "icao": "CCA8411",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    }
+]

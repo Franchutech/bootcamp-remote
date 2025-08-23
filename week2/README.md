@@ -16,12 +16,13 @@
   - **Notebook `viz.ipynb`:** integración de 6–8 gráficos documentados como informe visual, listo para README y presentación.  
 
 - **Día 11 (Jueves):**  
-- **Día 12 (Viernes):**  
-- **Día 13 (Sábado):**  
-- **Día 14 (Domingo):**  
+  Trabajo con **APIs**: introducción, conceptos de `endpoint`, `params`, `headers` y `tokens`.  
+  - **B1 (Postman):** primeros requests con JSONPlaceholder y API de NASA.  
+  - **B2 (Python requests):** consumo de APIs en Python, guardado de resultados en JSON y CSV.  
+    - Ejercicios: JSONPlaceholder → `posts.json` / `posts.csv`; NASA APOD → `nasa_apod.json` / `nasa_apod.csv`.  
+  - **B3 (Ejercicios prácticos):**  
+    - Countries API → `countries.json` / `countries.csv`.  
+    - AviationStack (vuelos) → `flights.json` / `flights.csv`.  
+    - MET Museum (arte) → `art.json` / `art.csv`.  
+  Documentación completa en carpetas B1, B2 y B3 con scripts `.py`, colecciones de Postman y archivos de salida.
 
-
----
-
-## 🌟 Logros de la Semana 2
-*(Se completará al cierre de la semana con los hitos alcanzados.)*

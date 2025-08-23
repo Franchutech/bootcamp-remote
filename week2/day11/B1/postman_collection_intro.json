@@ -1,0 +1,121 @@
+{
+	"info": {
+		"_postman_id": "a782cbe1-15e1-4a8d-8888-975102c1feba",
+		"name": "bootcamp API test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47842837",
+		"_collection_link": "https://francella-rojas-c-s-team.postman.co/workspace/Team-Workspace~f0194878-66aa-4cb9-876e-6e28566d30d8/collection/47842837-a782cbe1-15e1-4a8d-8888-975102c1feba?action=share&source=collection_link&creator=47842837"
+	},
+	"item": [
+		{
+			"name": "GET - All Posts",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get post by ID",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts/1",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get - post by user",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/posts?userId=1",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"posts"
+					],
+					"query": [
+						{
+							"key": "userId",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET - NASA APOD by Date",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.nasa.gov/planetary/apod?api_key=5DgXtaxi9zKLKAyEbGjew7ccTFbUwWcKsrUDM3gp&date=2025-08-23",
+					"protocol": "https",
+					"host": [
+						"api",
+						"nasa",
+						"gov"
+					],
+					"path": [
+						"planetary",
+						"apod"
+					],
+					"query": [
+						{
+							"key": "api_key",
+							"value": "5DgXtaxi9zKLKAyEbGjew7ccTFbUwWcKsrUDM3gp"
+						},
+						{
+							"key": "date",
+							"value": "2025-08-23"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
