@@ -16,13 +16,15 @@
   - **Notebook `viz.ipynb`:** integración de 6–8 gráficos documentados como informe visual, listo para README y presentación.  
 
 - **Día 11 (Jueves):**  
-  Trabajo con **APIs**: introducción, conceptos de `endpoint`, `params`, `headers` y `tokens`.  
-  - **B1 (Postman):** primeros requests con JSONPlaceholder y API de NASA.  
-  - **B2 (Python requests):** consumo de APIs en Python, guardado de resultados en JSON y CSV.  
-    - Ejercicios: JSONPlaceholder → `posts.json` / `posts.csv`; NASA APOD → `nasa_apod.json` / `nasa_apod.csv`.  
-  - **B3 (Ejercicios prácticos):**  
-    - Countries API → `countries.json` / `countries.csv`.  
-    - AviationStack (vuelos) → `flights.json` / `flights.csv`.  
-    - MET Museum (arte) → `art.json` / `art.csv`.  
-  Documentación completa en carpetas B1, B2 y B3 con scripts `.py`, colecciones de Postman y archivos de salida.
+  Introducción a **APIs**: uso de Postman, endpoints, parámetros y tokens.  
+  Consumo de APIs en Python con `requests`, guardando resultados en JSON y CSV.  
+  Ejercicios prácticos con: JSONPlaceholder, NASA APOD, Countries, AviationStack (flights) y MET Museum (art).
+
+- **Día 12 (Viernes):**  
+  Introducción a **Power BI**: carga de datos, limpieza básica y modelado.  
+  Creación de medidas en **DAX** para KPIs clave (Revenue, Profit, Margin, Orders, AOV).  
+  Diseño de un **dashboard corporativo** con logo, cards, gráficos (barras, columnas, donut, líneas) y un **mapa geográfico** interactivo.  
+  Exportación final en `.pbix`, `.png` y grabación de video de presentación.
+
+  ![Dashboard Preview](./day12/B2-B3/revenueandprofit_by_region.png)
 

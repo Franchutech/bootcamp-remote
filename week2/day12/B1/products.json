@@ -1,0 +1,22 @@
+[
+  {"product_id": "P001", "name": "Laptop Sleeve", "category": "Accessories"},
+  {"product_id": "P002", "name": "Wireless Mouse", "category": "Electronics"},
+  {"product_id": "P003", "name": "Notebook", "category": "Stationery"},
+  {"product_id": "P004", "name": "Headphones", "category": "Electronics"},
+  {"product_id": "P005", "name": "Monitor 24\"", "category": "Electronics"},
+  {"product_id": "P006", "name": "Smartphone", "category": "Electronics"},
+  {"product_id": "P007", "name": "Laptop Pro", "category": "Computers"},
+  {"product_id": "P008", "name": "Keyboard Mechanical", "category": "Electronics"},
+  {"product_id": "P009", "name": "USB Hub", "category": "Accessories"},
+  {"product_id": "P010", "name": "Webcam HD", "category": "Electronics"},
+  {"product_id": "P011", "name": "Pen Set", "category": "Stationery"},
+  {"product_id": "P012", "name": "Tablet", "category": "Electronics"},
+  {"product_id": "P013", "name": "Backpack", "category": "Accessories"},
+  {"product_id": "P014", "name": "Sticky Notes Pack", "category": "Stationery"},
+  {"product_id": "P015", "name": "Printer", "category": "Electronics"},
+  {"product_id": "P016", "name": "Office Chair", "category": "Furniture"},
+  {"product_id": "P017", "name": "Desk Lamp", "category": "Furniture"},
+  {"product_id": "P018", "name": "HDMI Cable", "category": "Accessories"},
+  {"product_id": "P019", "name": "Coffee Mug", "category": "Stationery"},
+  {"product_id": "P020", "name": "External Hard Drive", "category": "Electronics"}
+]

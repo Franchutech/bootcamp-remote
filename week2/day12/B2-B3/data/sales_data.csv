@@ -1,0 +1,1001 @@
+OrderDate,Region,Country,City,Salesperson,Channel,Category,Product,Quantity,UnitPrice,UnitCost
+2024-01-20,Europe,UK,London,Diana,Online,Electronics,Smartphone,4,167.11,106.54
+2024-01-06,Europe,Germany,Berlin,Bob,Store,Electronics,Headphones,6,174.94,79.38
+2024-06-05,APAC,India,Mumbai,Grace,Distributor,Electronics,Headphones,7,278.97,134.1
+2024-08-21,North America,USA,Los Angeles,Carlos,Online,Office Supplies,Notebook,8,406.84,204.18
+2024-03-24,Europe,France,Paris,Carlos,Store,Electronics,Tablet,5,11.33,5.06
+2024-01-06,LATAM,Chile,Santiago,Bob,Store,Furniture,Office Chair,8,306.99,220.33
+2024-05-30,North America,USA,New York,Ivan,Online,Appliances,Microwave,1,426.86,298.11
+2024-01-21,APAC,Australia,Sydney,Grace,Store,Furniture,Office Chair,2,70.91,49.09
+2024-03-05,Europe,UK,London,Frank,Store,Appliances,Coffee Maker,9,110.45,60.93
+2024-06-25,APAC,China,Beijing,Julia,Store,Appliances,Microwave,1,373.15,235.01
+2024-03-16,LATAM,Brazil,São Paulo,Hiro,Distributor,Appliances,Microwave,8,415.69,291.07
+2024-10-03,LATAM,Chile,Santiago,Julia,Distributor,Appliances,Coffee Maker,3,90.49,65.68
+2024-12-14,LATAM,Argentina,Buenos Aires,Alice,Store,Appliances,Blender,4,164.94,104.79
+2024-09-20,Europe,UK,London,Grace,Online,Furniture,Office Chair,2,410.13,236.09
+2024-04-25,Europe,UK,London,Diana,Distributor,Furniture,Lamp,3,315.81,194.51
+2024-07-10,North America,Canada,Vancouver,Ivan,Distributor,Electronics,Monitor,1,123.78,94.05
+2024-02-05,North America,USA,Los Angeles,Elena,Distributor,Electronics,Monitor,7,270.61,115.46
+2024-08-26,Europe,France,Paris,Diana,Store,Furniture,Bookshelf,8,315.88,141.12
+2024-06-01,Europe,Germany,Berlin,Diana,Online,Electronics,Laptop,6,173.08,119.81
+2024-06-10,APAC,Japan,Tokyo,Elena,Distributor,Furniture,Lamp,4,399.07,258.61
+2024-05-01,APAC,Japan,Tokyo,Hiro,Store,Office Supplies,Sticky Notes,4,373.32,234.92
+2024-08-14,APAC,India,Mumbai,Alice,Online,Electronics,Headphones,6,378.68,258.56
+2024-12-13,LATAM,Argentina,Buenos Aires,Grace,Online,Office Supplies,Sticky Notes,7,80.13,38.61
+2024-03-09,LATAM,Chile,Santiago,Ivan,Distributor,Furniture,Desk,2,383.6,287.97
+2024-07-08,LATAM,Argentina,Buenos Aires,Bob,Distributor,Appliances,Blender,1,60.43,37.14
+2024-08-10,LATAM,Mexico,CDMX,Carlos,Online,Office Supplies,Pen Set,4,233.93,150.09
+2024-03-26,LATAM,Argentina,Buenos Aires,Bob,Distributor,Office Supplies,Notebook,8,83.46,41.04
+2024-08-14,APAC,China,Beijing,Hiro,Distributor,Electronics,Tablet,2,15.98,10.22
+2024-10-14,LATAM,Mexico,CDMX,Elena,Distributor,Appliances,Microwave,4,275.93,138.16
+2024-05-21,LATAM,Argentina,Buenos Aires,Carlos,Store,Furniture,Desk,5,415.13,325.31
+2024-04-02,LATAM,Mexico,CDMX,Hiro,Online,Office Supplies,Planner,8,295.86,165.78
+2024-05-06,LATAM,Argentina,Buenos Aires,Diana,Store,Appliances,Blender,8,257.89,166.23
+2024-12-13,APAC,Japan,Tokyo,Alice,Distributor,Appliances,Coffee Maker,8,437.34,338.0
+2024-06-25,Europe,Germany,Berlin,Alice,Store,Electronics,Tablet,4,460.19,329.51
+2024-05-27,LATAM,Mexico,CDMX,Carlos,Online,Electronics,Tablet,5,356.55,164.38
+2024-06-20,APAC,India,Mumbai,Elena,Distributor,Electronics,Monitor,9,217.82,151.29
+2024-06-06,LATAM,Mexico,CDMX,Ivan,Store,Furniture,Bookshelf,8,421.82,322.39
+2024-02-20,North America,Canada,Vancouver,Alice,Distributor,Electronics,Smartphone,1,65.49,51.99
+2024-12-20,North America,USA,New York,Frank,Store,Furniture,Desk,4,71.08,54.61
+2024-01-05,Europe,Spain,Madrid,Elena,Online,Furniture,Lamp,6,264.23,168.19
+2024-11-09,LATAM,Argentina,Buenos Aires,Bob,Distributor,Appliances,Blender,5,195.86,136.65
+2024-05-18,APAC,Australia,Sydney,Elena,Online,Furniture,Office Chair,4,396.02,254.04
+2024-02-17,Europe,UK,London,Alice,Store,Electronics,Headphones,3,205.1,126.13
+2024-11-26,LATAM,Brazil,São Paulo,Frank,Store,Electronics,Smartphone,6,179.71,96.82
+2024-09-23,Europe,Spain,Madrid,Alice,Online,Electronics,Monitor,2,460.04,292.05
+2024-09-28,North America,Canada,Vancouver,Bob,Distributor,Furniture,Desk,3,131.63,83.07
+2024-07-22,APAC,China,Beijing,Frank,Distributor,Appliances,Blender,4,215.27,164.88
+2024-10-07,North America,USA,New York,Bob,Distributor,Office Supplies,Pen Set,1,392.44,200.55
+2024-10-03,LATAM,Chile,Santiago,Elena,Store,Office Supplies,Pen Set,2,335.13,157.92
+2024-10-09,North America,USA,New York,Julia,Distributor,Electronics,Monitor,4,234.9,146.32
+2024-10-14,North America,USA,Los Angeles,Julia,Distributor,Electronics,Smartphone,6,51.82,41.39
+2024-10-15,LATAM,Argentina,Buenos Aires,Grace,Online,Furniture,Bookshelf,1,156.8,82.16
+2024-04-21,North America,USA,Los Angeles,Diana,Online,Office Supplies,Notebook,7,219.13,157.75
+2024-01-14,North America,USA,New York,Julia,Distributor,Electronics,Tablet,1,27.91,16.43
+2024-07-21,North America,USA,New York,Diana,Online,Furniture,Office Chair,8,297.85,154.17
+2024-12-02,LATAM,Mexico,CDMX,Carlos,Distributor,Electronics,Laptop,3,232.11,141.53
+2024-10-31,Europe,UK,London,Alice,Store,Office Supplies,Pen Set,1,206.37,128.75
+2024-03-16,North America,USA,New York,Diana,Distributor,Appliances,Blender,4,99.14,73.83
+2024-08-26,Europe,Spain,Madrid,Grace,Store,Office Supplies,Sticky Notes,7,379.09,192.93
+2024-02-14,North America,USA,New York,Bob,Online,Office Supplies,Notebook,3,325.56,183.45
+2024-09-08,Europe,UK,London,Ivan,Online,Appliances,Coffee Maker,7,489.68,360.36
+2024-12-05,APAC,Japan,Tokyo,Alice,Distributor,Furniture,Desk,7,332.87,136.76
+2024-10-15,North America,USA,New York,Grace,Store,Furniture,Office Chair,7,134.41,64.31
+2024-11-03,Europe,Germany,Berlin,Grace,Store,Appliances,Microwave,8,61.01,43.93
+2024-11-25,Europe,UK,London,Carlos,Distributor,Electronics,Smartphone,3,444.86,277.01
+2024-12-03,LATAM,Mexico,CDMX,Ivan,Distributor,Appliances,Blender,8,58.73,29.2
+2024-01-04,APAC,India,Mumbai,Hiro,Online,Furniture,Desk,8,405.36,318.23
+2024-10-09,North America,USA,New York,Alice,Distributor,Office Supplies,Planner,4,337.36,162.61
+2024-09-27,APAC,Australia,Sydney,Carlos,Store,Furniture,Lamp,7,449.2,182.02
+2024-02-24,Europe,UK,London,Frank,Distributor,Furniture,Office Chair,7,370.59,273.96
+2024-11-10,North America,Canada,Toronto,Julia,Online,Office Supplies,Notebook,3,295.69,168.12
+2024-11-30,LATAM,Brazil,São Paulo,Frank,Store,Electronics,Smartphone,2,456.21,296.49
+2024-03-31,LATAM,Chile,Santiago,Elena,Store,Appliances,Coffee Maker,2,187.9,77.73
+2024-01-04,LATAM,Chile,Santiago,Hiro,Store,Appliances,Blender,4,315.83,178.05
+2024-11-26,APAC,India,Mumbai,Hiro,Online,Furniture,Desk,9,223.7,115.83
+2024-03-31,North America,Canada,Vancouver,Ivan,Distributor,Office Supplies,Planner,4,487.53,347.07
+2024-11-13,North America,Canada,Toronto,Ivan,Store,Office Supplies,Planner,1,435.55,259.14
+2024-07-13,Europe,Spain,Madrid,Alice,Store,Furniture,Desk,7,401.93,229.13
+2024-08-22,APAC,Australia,Sydney,Julia,Online,Office Supplies,Notebook,3,261.1,181.9
+2024-11-17,APAC,Japan,Tokyo,Diana,Distributor,Office Supplies,Planner,2,320.4,161.21
+2024-10-30,North America,USA,Los Angeles,Hiro,Online,Office Supplies,Planner,6,326.08,185.44
+2024-11-22,APAC,Australia,Sydney,Julia,Distributor,Office Supplies,Pen Set,2,143.43,58.43
+2024-07-05,APAC,India,Mumbai,Grace,Store,Furniture,Office Chair,2,269.53,195.68
+2024-10-03,North America,Canada,Vancouver,Frank,Store,Appliances,Coffee Maker,9,144.29,89.7
+2024-01-23,LATAM,Brazil,São Paulo,Hiro,Online,Furniture,Bookshelf,9,253.76,174.61
+2024-04-12,North America,USA,Los Angeles,Diana,Distributor,Appliances,Blender,5,15.39,7.0
+2024-06-18,North America,USA,Los Angeles,Frank,Distributor,Electronics,Headphones,9,140.58,97.4
+2024-09-05,North America,Canada,Toronto,Elena,Distributor,Electronics,Smartphone,2,304.25,202.63
+2024-05-10,Europe,Spain,Madrid,Diana,Distributor,Appliances,Microwave,7,290.91,213.89
+2024-05-06,North America,Canada,Toronto,Bob,Online,Electronics,Headphones,5,197.74,120.14
+2024-09-02,Europe,Germany,Berlin,Carlos,Distributor,Office Supplies,Notebook,2,91.48,63.6
+2024-02-03,Europe,Spain,Madrid,Diana,Store,Electronics,Monitor,3,54.27,38.44
+2024-05-26,Europe,UK,London,Grace,Distributor,Office Supplies,Sticky Notes,5,420.17,241.55
+2024-08-07,APAC,India,Mumbai,Bob,Store,Electronics,Headphones,4,362.33,187.99
+2024-03-30,Europe,Spain,Madrid,Hiro,Online,Electronics,Monitor,3,475.16,265.45
+2024-12-14,LATAM,Brazil,São Paulo,Hiro,Distributor,Appliances,Blender,8,469.05,325.07
+2024-12-15,Europe,UK,London,Elena,Online,Office Supplies,Sticky Notes,1,142.26,87.62
+2024-05-01,North America,Canada,Toronto,Bob,Online,Electronics,Tablet,3,301.59,126.84
+2024-09-17,Europe,UK,London,Carlos,Store,Furniture,Office Chair,2,315.43,186.01
+2024-02-20,Europe,France,Paris,Ivan,Online,Electronics,Headphones,9,46.82,32.37
+2024-12-14,Europe,UK,London,Julia,Store,Appliances,Blender,9,355.41,227.22
+2024-02-23,Europe,UK,London,Elena,Distributor,Electronics,Tablet,9,130.74,95.13
+2024-03-21,North America,Canada,Vancouver,Julia,Online,Office Supplies,Planner,5,11.15,8.78
+2024-04-08,APAC,India,Mumbai,Alice,Online,Furniture,Desk,6,299.21,162.89
+2024-07-30,Europe,UK,London,Hiro,Store,Electronics,Tablet,1,77.04,60.1
+2024-10-15,LATAM,Chile,Santiago,Diana,Online,Electronics,Monitor,7,265.44,115.38
+2024-09-15,North America,USA,New York,Diana,Store,Appliances,Microwave,8,381.61,250.18
+2024-04-26,LATAM,Chile,Santiago,Frank,Distributor,Office Supplies,Notebook,1,332.8,225.28
+2024-03-03,APAC,China,Beijing,Frank,Distributor,Appliances,Coffee Maker,6,490.48,373.42
+2024-04-05,North America,Canada,Toronto,Bob,Distributor,Office Supplies,Notebook,9,472.59,196.49
+2024-08-16,LATAM,Argentina,Buenos Aires,Elena,Store,Furniture,Bookshelf,7,499.68,310.96
+2024-11-13,Europe,UK,London,Julia,Distributor,Furniture,Office Chair,6,458.59,189.66
+2024-04-20,North America,Canada,Vancouver,Hiro,Online,Office Supplies,Sticky Notes,5,368.2,175.65
+2024-02-08,Europe,UK,London,Ivan,Distributor,Electronics,Smartphone,8,485.82,377.83
+2024-05-31,APAC,China,Beijing,Diana,Online,Furniture,Bookshelf,2,375.08,158.27
+2024-08-20,APAC,China,Beijing,Julia,Distributor,Furniture,Desk,3,166.36,121.7
+2024-12-30,Europe,UK,London,Grace,Distributor,Appliances,Coffee Maker,1,328.58,179.36
+2024-06-22,North America,USA,New York,Frank,Distributor,Appliances,Blender,2,443.65,271.56
+2024-07-15,North America,USA,Los Angeles,Elena,Online,Office Supplies,Sticky Notes,7,208.2,130.95
+2024-07-23,North America,Canada,Toronto,Hiro,Distributor,Electronics,Laptop,8,274.35,196.51
+2024-03-26,Europe,Germany,Berlin,Alice,Store,Appliances,Blender,9,371.55,225.93
+2024-09-08,APAC,Australia,Sydney,Hiro,Distributor,Appliances,Coffee Maker,2,21.96,16.43
+2024-08-16,Europe,UK,London,Grace,Online,Office Supplies,Sticky Notes,7,100.88,55.85
+2024-08-01,Europe,Germany,Berlin,Julia,Store,Appliances,Blender,3,44.31,17.89
+2024-06-28,LATAM,Brazil,São Paulo,Hiro,Store,Electronics,Tablet,1,206.95,122.5
+2024-08-23,LATAM,Brazil,São Paulo,Frank,Distributor,Electronics,Headphones,9,294.57,149.84
+2024-04-08,Europe,France,Paris,Bob,Distributor,Office Supplies,Sticky Notes,9,386.45,219.16
+2024-10-30,Europe,France,Paris,Diana,Distributor,Appliances,Microwave,7,266.03,184.33
+2024-08-25,North America,USA,Los Angeles,Alice,Online,Office Supplies,Pen Set,1,64.13,34.75
+2024-07-21,North America,USA,Los Angeles,Elena,Store,Office Supplies,Pen Set,2,155.19,76.58
+2024-02-22,APAC,Australia,Sydney,Julia,Distributor,Appliances,Microwave,9,145.86,111.46
+2024-04-23,Europe,Spain,Madrid,Julia,Online,Furniture,Office Chair,9,63.64,35.43
+2024-10-15,Europe,Spain,Madrid,Alice,Online,Electronics,Laptop,4,116.94,91.21
+2024-12-11,APAC,China,Beijing,Ivan,Store,Electronics,Tablet,5,53.81,30.51
+2024-07-24,APAC,China,Beijing,Bob,Store,Furniture,Bookshelf,8,443.26,283.83
+2024-10-16,Europe,Spain,Madrid,Ivan,Store,Electronics,Monitor,2,91.85,73.16
+2024-04-09,LATAM,Chile,Santiago,Grace,Online,Furniture,Lamp,8,471.94,311.41
+2024-01-28,LATAM,Brazil,São Paulo,Bob,Store,Electronics,Headphones,5,417.01,186.88
+2024-12-25,LATAM,Brazil,São Paulo,Alice,Online,Furniture,Lamp,2,198.2,82.19
+2024-10-25,APAC,China,Beijing,Grace,Store,Office Supplies,Sticky Notes,3,414.84,298.81
+2024-07-07,North America,USA,Los Angeles,Ivan,Store,Office Supplies,Planner,6,484.86,365.35
+2024-10-09,North America,Canada,Toronto,Diana,Distributor,Furniture,Desk,3,302.66,184.63
+2024-02-27,North America,Canada,Vancouver,Hiro,Distributor,Office Supplies,Sticky Notes,3,381.54,258.84
+2024-02-04,LATAM,Argentina,Buenos Aires,Carlos,Online,Electronics,Monitor,8,449.74,263.26
+2024-05-19,Europe,Spain,Madrid,Ivan,Online,Furniture,Desk,8,376.46,155.83
+2024-08-23,North America,Canada,Toronto,Carlos,Distributor,Office Supplies,Planner,4,294.24,128.46
+2024-01-01,APAC,Australia,Sydney,Elena,Online,Appliances,Microwave,9,201.67,102.69
+2024-08-24,LATAM,Mexico,CDMX,Grace,Distributor,Appliances,Coffee Maker,9,31.74,23.52
+2024-11-11,North America,Canada,Toronto,Diana,Distributor,Appliances,Microwave,9,171.24,132.31
+2024-02-22,LATAM,Brazil,São Paulo,Hiro,Online,Electronics,Monitor,2,210.14,115.38
+2024-10-25,North America,USA,New York,Grace,Store,Electronics,Monitor,8,350.9,147.21
+2024-05-01,North America,USA,Los Angeles,Julia,Distributor,Electronics,Headphones,2,49.71,24.26
+2024-09-08,North America,USA,Los Angeles,Bob,Online,Electronics,Smartphone,5,495.82,210.53
+2024-02-15,North America,Canada,Toronto,Carlos,Distributor,Furniture,Office Chair,3,414.09,223.25
+2024-09-05,North America,Canada,Vancouver,Carlos,Store,Furniture,Bookshelf,2,276.45,206.18
+2024-07-21,North America,Canada,Toronto,Hiro,Store,Appliances,Microwave,1,440.53,316.73
+2024-11-18,Europe,France,Paris,Ivan,Store,Office Supplies,Notebook,8,130.19,60.27
+2024-01-10,North America,Canada,Toronto,Ivan,Online,Furniture,Lamp,9,173.66,86.04
+2024-09-29,APAC,China,Beijing,Carlos,Store,Furniture,Lamp,5,343.27,222.25
+2024-07-13,Europe,France,Paris,Hiro,Store,Office Supplies,Planner,6,102.72,77.31
+2024-05-25,LATAM,Brazil,São Paulo,Carlos,Distributor,Office Supplies,Planner,9,24.33,17.77
+2024-02-17,LATAM,Brazil,São Paulo,Carlos,Store,Appliances,Microwave,5,374.32,173.8
+2024-12-11,LATAM,Argentina,Buenos Aires,Elena,Online,Furniture,Lamp,4,282.53,198.52
+2024-02-23,APAC,Japan,Tokyo,Grace,Online,Office Supplies,Planner,7,104.64,45.38
+2024-06-09,Europe,Spain,Madrid,Grace,Online,Office Supplies,Pen Set,1,284.32,126.9
+2024-01-09,Europe,Spain,Madrid,Diana,Store,Furniture,Office Chair,2,320.66,197.52
+2024-01-01,Europe,UK,London,Diana,Distributor,Office Supplies,Planner,3,72.94,37.44
+2024-08-11,Europe,UK,London,Bob,Online,Furniture,Lamp,7,275.22,216.1
+2024-06-13,APAC,Australia,Sydney,Carlos,Online,Office Supplies,Sticky Notes,5,60.23,46.67
+2024-01-08,LATAM,Brazil,São Paulo,Julia,Distributor,Electronics,Headphones,4,43.24,22.5
+2024-02-13,LATAM,Brazil,São Paulo,Alice,Store,Office Supplies,Planner,1,387.78,265.02
+2024-01-19,APAC,Australia,Sydney,Frank,Distributor,Office Supplies,Sticky Notes,6,179.48,116.37
+2024-09-20,LATAM,Brazil,São Paulo,Bob,Store,Office Supplies,Planner,2,437.05,345.01
+2024-01-14,APAC,Japan,Tokyo,Frank,Store,Electronics,Smartphone,4,327.31,208.74
+2024-05-05,APAC,Australia,Sydney,Ivan,Online,Appliances,Coffee Maker,7,42.16,30.72
+2024-12-26,North America,USA,Los Angeles,Ivan,Distributor,Furniture,Bookshelf,3,133.73,53.55
+2024-04-10,APAC,Japan,Tokyo,Ivan,Store,Furniture,Lamp,2,144.08,115.1
+2024-10-31,North America,USA,Los Angeles,Carlos,Online,Office Supplies,Pen Set,1,60.07,44.55
+2024-01-12,Europe,UK,London,Carlos,Store,Furniture,Office Chair,7,414.7,215.37
+2024-02-29,North America,USA,Los Angeles,Diana,Distributor,Appliances,Microwave,2,388.68,191.24
+2024-03-20,APAC,China,Beijing,Alice,Distributor,Electronics,Monitor,3,475.92,219.12
+2024-05-09,Europe,France,Paris,Diana,Store,Office Supplies,Pen Set,5,455.67,338.54
+2024-07-08,North America,USA,Los Angeles,Elena,Distributor,Furniture,Office Chair,4,204.82,104.39
+2024-06-27,APAC,Australia,Sydney,Frank,Online,Office Supplies,Notebook,3,162.86,86.04
+2024-02-22,North America,Canada,Vancouver,Hiro,Online,Office Supplies,Notebook,6,122.68,59.53
+2024-12-30,Europe,Germany,Berlin,Diana,Store,Electronics,Laptop,1,329.32,180.27
+2024-02-06,APAC,India,Mumbai,Bob,Distributor,Appliances,Microwave,8,88.03,42.38
+2024-06-17,LATAM,Argentina,Buenos Aires,Bob,Store,Furniture,Desk,5,85.29,49.59
+2024-04-22,LATAM,Mexico,CDMX,Carlos,Distributor,Electronics,Headphones,2,382.9,249.07
+2024-10-30,APAC,Australia,Sydney,Carlos,Distributor,Furniture,Desk,5,456.8,359.5
+2024-04-01,Europe,UK,London,Frank,Online,Office Supplies,Planner,4,400.3,237.22
+2024-02-02,North America,USA,Los Angeles,Diana,Online,Office Supplies,Notebook,7,71.34,48.1
+2024-10-14,APAC,Japan,Tokyo,Julia,Online,Furniture,Bookshelf,4,283.62,139.04
+2024-12-31,Europe,France,Paris,Julia,Distributor,Office Supplies,Sticky Notes,6,295.17,149.83
+2024-05-15,LATAM,Mexico,CDMX,Grace,Distributor,Appliances,Blender,8,222.29,176.44
+2024-03-25,LATAM,Argentina,Buenos Aires,Ivan,Distributor,Appliances,Coffee Maker,1,15.69,6.73
+2024-05-24,North America,USA,New York,Carlos,Store,Appliances,Coffee Maker,2,245.17,156.91
+2024-02-02,LATAM,Mexico,CDMX,Bob,Store,Furniture,Bookshelf,9,431.46,307.17
+2024-04-03,North America,USA,Los Angeles,Julia,Distributor,Electronics,Laptop,8,364.9,255.31
+2024-07-10,APAC,Australia,Sydney,Julia,Distributor,Appliances,Blender,9,128.6,102.19
+2024-05-22,North America,Canada,Vancouver,Diana,Store,Appliances,Coffee Maker,6,312.9,213.08
+2024-02-11,LATAM,Mexico,CDMX,Elena,Distributor,Office Supplies,Planner,8,14.79,7.85
+2024-11-09,North America,Canada,Vancouver,Grace,Distributor,Furniture,Office Chair,2,271.78,204.65
+2024-04-09,APAC,China,Beijing,Frank,Online,Appliances,Coffee Maker,1,414.01,224.86
+2024-04-08,LATAM,Brazil,São Paulo,Alice,Store,Office Supplies,Notebook,7,75.03,47.05
+2024-05-31,North America,Canada,Toronto,Hiro,Store,Appliances,Blender,2,412.51,171.8
+2024-08-30,North America,USA,New York,Carlos,Online,Electronics,Headphones,1,476.26,214.17
+2024-05-15,North America,USA,New York,Diana,Online,Office Supplies,Notebook,6,301.44,194.92
+2024-07-08,Europe,Spain,Madrid,Ivan,Online,Office Supplies,Notebook,9,357.44,267.5
+2024-07-23,LATAM,Argentina,Buenos Aires,Grace,Store,Furniture,Bookshelf,2,316.4,225.71
+2024-11-10,LATAM,Chile,Santiago,Carlos,Distributor,Appliances,Coffee Maker,7,333.8,207.36
+2024-04-14,Europe,Germany,Berlin,Ivan,Online,Electronics,Laptop,6,410.48,238.46
+2024-12-29,North America,USA,Los Angeles,Julia,Distributor,Electronics,Laptop,3,29.97,13.95
+2024-08-05,North America,Canada,Vancouver,Hiro,Store,Furniture,Desk,2,39.57,19.74
+2024-09-02,North America,USA,Los Angeles,Diana,Online,Furniture,Lamp,9,437.17,213.2
+2024-12-26,Europe,Spain,Madrid,Julia,Online,Electronics,Smartphone,7,240.39,167.72
+2024-12-15,North America,Canada,Toronto,Julia,Store,Furniture,Lamp,7,222.49,92.88
+2024-12-20,North America,Canada,Toronto,Grace,Distributor,Office Supplies,Notebook,2,20.22,13.37
+2024-04-08,LATAM,Mexico,CDMX,Grace,Store,Office Supplies,Sticky Notes,5,498.2,393.54
+2024-07-21,Europe,Germany,Berlin,Elena,Online,Appliances,Blender,3,49.95,28.04
+2024-04-22,APAC,Australia,Sydney,Julia,Distributor,Office Supplies,Planner,6,25.02,12.59
+2024-12-31,Europe,UK,London,Frank,Store,Office Supplies,Pen Set,1,435.45,300.84
+2024-04-20,LATAM,Brazil,São Paulo,Carlos,Store,Appliances,Microwave,8,218.49,117.63
+2024-08-05,Europe,Spain,Madrid,Frank,Distributor,Furniture,Office Chair,4,257.37,158.88
+2024-05-27,Europe,UK,London,Hiro,Online,Appliances,Microwave,3,293.55,168.92
+2024-11-06,North America,USA,Los Angeles,Frank,Distributor,Appliances,Blender,5,203.8,130.94
+2024-07-20,Europe,UK,London,Frank,Online,Office Supplies,Sticky Notes,2,398.55,263.84
+2024-09-21,APAC,India,Mumbai,Carlos,Distributor,Appliances,Microwave,3,300.25,229.67
+2024-05-24,APAC,India,Mumbai,Alice,Online,Electronics,Monitor,3,315.25,205.74
+2024-07-03,Europe,Germany,Berlin,Hiro,Online,Appliances,Blender,1,74.47,51.11
+2024-01-29,APAC,Japan,Tokyo,Bob,Distributor,Appliances,Coffee Maker,7,319.94,175.69
+2024-02-27,North America,Canada,Vancouver,Grace,Online,Appliances,Blender,2,98.68,73.2
+2024-11-09,APAC,Japan,Tokyo,Carlos,Store,Office Supplies,Pen Set,9,131.14,98.13
+2024-02-18,LATAM,Mexico,CDMX,Ivan,Online,Appliances,Microwave,8,293.91,195.46
+2024-05-16,North America,USA,Los Angeles,Carlos,Distributor,Electronics,Monitor,7,90.13,50.15
+2024-09-15,LATAM,Chile,Santiago,Diana,Online,Electronics,Monitor,9,205.53,152.75
+2024-10-09,APAC,Japan,Tokyo,Frank,Online,Office Supplies,Sticky Notes,5,169.34,120.13
+2024-07-23,North America,Canada,Vancouver,Diana,Online,Electronics,Headphones,8,204.36,101.12
+2024-10-12,North America,USA,New York,Frank,Online,Electronics,Tablet,3,226.59,120.63
+2024-11-14,APAC,Japan,Tokyo,Ivan,Online,Office Supplies,Notebook,9,221.13,110.45
+2024-08-07,APAC,Australia,Sydney,Grace,Store,Office Supplies,Pen Set,1,133.74,72.71
+2024-11-30,North America,USA,Los Angeles,Julia,Online,Appliances,Blender,9,306.71,166.45
+2024-02-21,Europe,Spain,Madrid,Grace,Store,Office Supplies,Pen Set,5,393.08,268.14
+2024-12-06,APAC,India,Mumbai,Hiro,Online,Electronics,Smartphone,8,296.82,221.82
+2024-09-09,APAC,Japan,Tokyo,Hiro,Distributor,Electronics,Laptop,4,142.18,60.12
+2024-02-23,LATAM,Brazil,São Paulo,Hiro,Store,Electronics,Tablet,5,468.94,194.96
+2024-12-03,North America,Canada,Vancouver,Frank,Distributor,Office Supplies,Pen Set,7,120.1,56.69
+2024-01-21,LATAM,Mexico,CDMX,Alice,Distributor,Electronics,Tablet,5,60.62,38.43
+2024-09-21,North America,Canada,Toronto,Elena,Online,Appliances,Coffee Maker,4,493.45,387.88
+2024-09-14,Europe,UK,London,Diana,Store,Furniture,Lamp,2,168.33,132.85
+2024-11-21,Europe,France,Paris,Elena,Online,Electronics,Headphones,7,232.82,141.14
+2024-01-01,LATAM,Brazil,São Paulo,Ivan,Distributor,Electronics,Laptop,2,177.9,109.03
+2024-05-17,LATAM,Chile,Santiago,Frank,Online,Appliances,Blender,7,24.69,12.92
+2024-04-10,APAC,Australia,Sydney,Ivan,Store,Office Supplies,Sticky Notes,2,108.91,72.9
+2024-11-07,Europe,Germany,Berlin,Ivan,Distributor,Furniture,Desk,2,102.29,70.82
+2024-08-03,LATAM,Mexico,CDMX,Elena,Distributor,Appliances,Microwave,6,435.39,205.01
+2024-11-18,APAC,India,Mumbai,Grace,Online,Office Supplies,Notebook,2,334.2,264.5
+2024-07-04,APAC,Australia,Sydney,Diana,Online,Furniture,Bookshelf,2,129.63,94.93
+2024-04-04,Europe,Germany,Berlin,Ivan,Store,Electronics,Monitor,8,386.57,172.12
+2024-12-14,APAC,Japan,Tokyo,Grace,Store,Electronics,Laptop,9,347.87,233.28
+2024-05-17,North America,Canada,Toronto,Elena,Online,Office Supplies,Planner,3,471.03,344.2
+2024-07-04,APAC,Australia,Sydney,Bob,Distributor,Furniture,Bookshelf,5,292.82,157.96
+2024-09-24,North America,USA,Los Angeles,Hiro,Distributor,Office Supplies,Sticky Notes,2,499.71,209.52
+2024-02-06,Europe,France,Paris,Bob,Store,Electronics,Headphones,9,434.55,346.48
+2024-03-08,LATAM,Chile,Santiago,Carlos,Online,Furniture,Bookshelf,9,54.34,28.01
+2024-08-29,North America,Canada,Toronto,Frank,Store,Appliances,Blender,4,328.75,232.12
+2024-09-16,LATAM,Mexico,CDMX,Frank,Distributor,Office Supplies,Sticky Notes,4,337.12,243.78
+2024-05-23,LATAM,Argentina,Buenos Aires,Ivan,Store,Furniture,Office Chair,2,440.17,231.92
+2024-09-11,North America,USA,Los Angeles,Grace,Distributor,Office Supplies,Planner,1,68.9,42.57
+2024-04-25,LATAM,Chile,Santiago,Grace,Store,Electronics,Monitor,9,170.91,111.45
+2024-01-06,North America,USA,Los Angeles,Frank,Store,Appliances,Coffee Maker,7,286.09,157.97
+2024-10-09,LATAM,Chile,Santiago,Bob,Online,Appliances,Coffee Maker,9,302.28,186.89
+2024-02-13,North America,Canada,Toronto,Diana,Online,Office Supplies,Pen Set,3,121.36,52.1
+2024-02-20,LATAM,Brazil,São Paulo,Alice,Distributor,Appliances,Blender,3,92.54,60.8
+2024-09-08,APAC,India,Mumbai,Alice,Distributor,Appliances,Microwave,2,237.11,130.86
+2024-04-08,APAC,China,Beijing,Grace,Store,Electronics,Monitor,8,264.35,156.41
+2024-04-28,LATAM,Mexico,CDMX,Carlos,Store,Office Supplies,Planner,5,408.75,181.31
+2024-05-28,APAC,Japan,Tokyo,Hiro,Store,Office Supplies,Planner,5,205.42,129.84
+2024-03-02,Europe,UK,London,Hiro,Online,Appliances,Coffee Maker,4,307.87,217.34
+2024-05-05,Europe,Germany,Berlin,Grace,Store,Appliances,Microwave,6,375.97,257.99
+2024-09-09,Europe,Spain,Madrid,Julia,Store,Appliances,Microwave,5,105.93,42.69
+2024-10-16,APAC,China,Beijing,Grace,Distributor,Appliances,Microwave,5,450.03,223.84
+2024-02-26,APAC,China,Beijing,Julia,Store,Electronics,Monitor,3,39.53,30.59
+2024-08-15,APAC,India,Mumbai,Julia,Distributor,Office Supplies,Notebook,6,105.33,49.14
+2024-11-03,Europe,UK,London,Elena,Distributor,Office Supplies,Planner,4,135.82,69.8
+2024-09-20,North America,Canada,Toronto,Ivan,Store,Furniture,Office Chair,3,294.66,128.43
+2024-03-12,North America,USA,New York,Diana,Distributor,Appliances,Coffee Maker,2,205.95,162.84
+2024-12-28,APAC,Australia,Sydney,Elena,Distributor,Office Supplies,Notebook,9,266.02,119.52
+2024-08-17,Europe,France,Paris,Grace,Online,Appliances,Coffee Maker,7,267.33,182.75
+2024-12-26,North America,USA,Los Angeles,Julia,Online,Appliances,Microwave,8,398.77,189.05
+2024-09-27,North America,Canada,Toronto,Alice,Distributor,Appliances,Blender,8,481.83,285.93
+2024-12-30,North America,USA,Los Angeles,Julia,Distributor,Furniture,Office Chair,7,409.72,225.1
+2024-09-11,LATAM,Argentina,Buenos Aires,Ivan,Online,Appliances,Coffee Maker,7,322.61,195.52
+2024-10-20,APAC,Australia,Sydney,Bob,Distributor,Appliances,Coffee Maker,9,398.93,262.75
+2024-02-11,APAC,Japan,Tokyo,Elena,Distributor,Office Supplies,Pen Set,8,211.4,155.58
+2024-10-04,LATAM,Mexico,CDMX,Alice,Online,Office Supplies,Pen Set,8,387.27,241.14
+2024-07-13,LATAM,Argentina,Buenos Aires,Diana,Store,Furniture,Office Chair,5,158.01,109.47
+2024-12-20,North America,USA,Los Angeles,Bob,Distributor,Furniture,Lamp,4,217.63,145.16
+2024-01-13,LATAM,Argentina,Buenos Aires,Alice,Store,Appliances,Coffee Maker,2,385.66,177.36
+2024-06-28,APAC,China,Beijing,Alice,Store,Furniture,Bookshelf,7,297.44,138.97
+2024-02-17,LATAM,Chile,Santiago,Diana,Store,Office Supplies,Notebook,3,435.94,256.84
+2024-06-16,North America,Canada,Vancouver,Ivan,Distributor,Office Supplies,Pen Set,5,56.9,23.3
+2024-07-22,LATAM,Brazil,São Paulo,Ivan,Store,Electronics,Headphones,3,307.48,190.23
+2024-11-26,LATAM,Chile,Santiago,Elena,Distributor,Appliances,Microwave,9,201.54,128.54
+2024-09-28,Europe,Germany,Berlin,Grace,Online,Electronics,Laptop,9,494.01,224.57
+2024-08-12,APAC,Japan,Tokyo,Alice,Distributor,Office Supplies,Planner,5,341.16,196.88
+2024-09-03,LATAM,Chile,Santiago,Diana,Online,Electronics,Laptop,7,365.01,148.31
+2024-07-16,North America,USA,Los Angeles,Julia,Distributor,Office Supplies,Sticky Notes,8,72.91,32.2
+2024-03-18,North America,USA,Los Angeles,Diana,Online,Appliances,Blender,6,293.41,149.54
+2024-04-05,APAC,Japan,Tokyo,Elena,Store,Appliances,Blender,4,51.97,39.38
+2024-04-21,LATAM,Argentina,Buenos Aires,Alice,Online,Appliances,Blender,3,206.58,112.95
+2024-04-07,North America,USA,Los Angeles,Julia,Online,Furniture,Office Chair,6,183.95,78.69
+2024-04-08,Europe,UK,London,Hiro,Store,Appliances,Microwave,1,417.61,278.9
+2024-09-27,North America,USA,Los Angeles,Bob,Distributor,Electronics,Laptop,5,142.86,91.02
+2024-04-30,North America,Canada,Toronto,Carlos,Online,Electronics,Monitor,3,271.15,143.64
+2024-03-06,North America,USA,Los Angeles,Julia,Online,Office Supplies,Pen Set,3,103.26,43.47
+2024-04-23,North America,USA,New York,Ivan,Online,Electronics,Laptop,2,187.84,149.93
+2024-10-01,North America,Canada,Toronto,Frank,Distributor,Office Supplies,Pen Set,7,237.95,100.9
+2024-11-14,North America,USA,New York,Frank,Store,Appliances,Microwave,4,481.22,314.71
+2024-11-13,Europe,Germany,Berlin,Alice,Online,Office Supplies,Planner,9,93.53,52.73
+2024-01-28,APAC,Australia,Sydney,Bob,Online,Appliances,Coffee Maker,9,412.69,165.28
+2024-02-16,LATAM,Chile,Santiago,Elena,Store,Office Supplies,Notebook,8,399.77,308.17
+2024-06-18,APAC,Japan,Tokyo,Frank,Store,Appliances,Blender,7,205.66,94.8
+2024-07-19,APAC,China,Beijing,Grace,Store,Electronics,Smartphone,5,371.22,262.62
+2024-12-16,North America,Canada,Vancouver,Hiro,Online,Office Supplies,Pen Set,1,422.6,257.1
+2024-05-31,North America,Canada,Toronto,Carlos,Store,Electronics,Tablet,6,135.95,97.23
+2024-03-28,Europe,Spain,Madrid,Alice,Online,Electronics,Laptop,1,308.16,185.74
+2024-12-25,North America,Canada,Toronto,Julia,Store,Office Supplies,Planner,4,357.28,148.08
+2024-05-21,LATAM,Brazil,São Paulo,Bob,Distributor,Appliances,Coffee Maker,1,121.41,65.16
+2024-08-18,North America,USA,Los Angeles,Frank,Online,Furniture,Lamp,9,52.94,41.02
+2024-10-03,APAC,India,Mumbai,Alice,Store,Furniture,Desk,9,259.76,189.65
+2024-06-20,APAC,China,Beijing,Grace,Distributor,Electronics,Laptop,7,471.77,353.51
+2024-07-26,Europe,France,Paris,Hiro,Online,Office Supplies,Sticky Notes,6,460.5,275.74
+2024-08-05,LATAM,Chile,Santiago,Hiro,Online,Office Supplies,Sticky Notes,6,287.62,160.04
+2024-06-02,LATAM,Brazil,São Paulo,Hiro,Distributor,Appliances,Coffee Maker,1,67.02,48.72
+2024-04-05,North America,USA,Los Angeles,Alice,Store,Furniture,Desk,3,340.41,208.67
+2024-03-21,LATAM,Brazil,São Paulo,Elena,Store,Appliances,Microwave,6,79.23,38.41
+2024-07-24,LATAM,Mexico,CDMX,Julia,Online,Appliances,Coffee Maker,9,168.04,68.75
+2024-12-29,LATAM,Brazil,São Paulo,Alice,Store,Office Supplies,Sticky Notes,2,119.57,93.61
+2024-01-13,Europe,Germany,Berlin,Alice,Online,Furniture,Office Chair,2,324.08,236.25
+2024-04-03,APAC,Japan,Tokyo,Diana,Store,Furniture,Lamp,9,244.88,128.68
+2024-11-08,APAC,Australia,Sydney,Grace,Store,Electronics,Monitor,1,307.06,216.76
+2024-05-31,North America,Canada,Vancouver,Carlos,Online,Furniture,Office Chair,4,256.26,143.37
+2024-07-21,APAC,Australia,Sydney,Julia,Distributor,Office Supplies,Notebook,9,336.49,150.98
+2024-01-19,North America,USA,Los Angeles,Carlos,Distributor,Office Supplies,Sticky Notes,5,22.65,10.28
+2024-02-16,Europe,France,Paris,Grace,Store,Electronics,Headphones,4,49.18,34.95
+2024-12-25,LATAM,Brazil,São Paulo,Ivan,Distributor,Furniture,Office Chair,4,225.36,99.67
+2024-06-23,North America,Canada,Vancouver,Ivan,Online,Appliances,Coffee Maker,6,10.16,4.14
+2024-02-05,Europe,UK,London,Grace,Distributor,Office Supplies,Pen Set,2,328.6,151.42
+2024-08-11,North America,USA,Los Angeles,Diana,Store,Appliances,Coffee Maker,3,286.58,136.62
+2024-01-06,North America,Canada,Vancouver,Elena,Online,Office Supplies,Notebook,9,38.5,30.72
+2024-08-29,LATAM,Argentina,Buenos Aires,Hiro,Distributor,Office Supplies,Planner,8,155.7,89.08
+2024-03-21,Europe,Spain,Madrid,Elena,Online,Furniture,Desk,9,79.7,35.75
+2024-09-06,North America,USA,New York,Ivan,Distributor,Furniture,Office Chair,3,97.11,65.71
+2024-12-11,APAC,Japan,Tokyo,Hiro,Distributor,Appliances,Coffee Maker,1,259.62,207.35
+2024-03-02,LATAM,Mexico,CDMX,Diana,Online,Electronics,Tablet,1,124.0,60.55
+2024-07-14,APAC,Japan,Tokyo,Bob,Online,Electronics,Monitor,4,331.3,244.9
+2024-11-26,APAC,India,Mumbai,Alice,Store,Furniture,Office Chair,2,74.05,55.88
+2024-07-30,Europe,UK,London,Elena,Online,Furniture,Desk,3,190.2,107.59
+2024-02-24,LATAM,Mexico,CDMX,Bob,Store,Furniture,Lamp,7,369.47,261.48
+2024-02-23,APAC,Australia,Sydney,Julia,Store,Office Supplies,Sticky Notes,7,213.92,126.76
+2024-05-13,Europe,Spain,Madrid,Hiro,Store,Office Supplies,Planner,6,397.27,251.42
+2024-05-14,LATAM,Mexico,CDMX,Alice,Store,Electronics,Tablet,7,77.18,47.4
+2024-07-25,Europe,France,Paris,Diana,Distributor,Office Supplies,Sticky Notes,1,168.52,123.65
+2024-10-12,Europe,UK,London,Bob,Distributor,Electronics,Headphones,5,107.44,45.75
+2024-06-09,Europe,Spain,Madrid,Julia,Distributor,Electronics,Tablet,4,191.99,97.21
+2024-10-27,LATAM,Mexico,CDMX,Elena,Distributor,Electronics,Tablet,5,423.73,186.12
+2024-06-02,APAC,India,Mumbai,Diana,Store,Electronics,Headphones,4,433.68,215.71
+2024-10-12,APAC,Japan,Tokyo,Bob,Distributor,Electronics,Monitor,2,243.25,133.87
+2024-05-26,LATAM,Brazil,São Paulo,Carlos,Distributor,Electronics,Laptop,4,431.19,240.15
+2024-09-11,Europe,UK,London,Julia,Online,Appliances,Microwave,1,478.11,341.73
+2024-02-02,LATAM,Brazil,São Paulo,Diana,Distributor,Furniture,Office Chair,9,471.99,341.51
+2024-06-28,APAC,Australia,Sydney,Frank,Store,Furniture,Office Chair,1,422.03,175.3
+2024-08-16,North America,Canada,Vancouver,Alice,Online,Office Supplies,Notebook,8,236.12,154.63
+2024-05-30,LATAM,Brazil,São Paulo,Diana,Store,Electronics,Monitor,2,199.31,115.61
+2024-07-30,Europe,France,Paris,Alice,Distributor,Furniture,Office Chair,1,310.83,132.62
+2024-01-15,LATAM,Chile,Santiago,Carlos,Store,Furniture,Bookshelf,8,442.41,195.67
+2024-08-29,Europe,UK,London,Julia,Store,Electronics,Headphones,1,227.2,95.23
+2024-05-23,Europe,Spain,Madrid,Frank,Online,Office Supplies,Notebook,8,51.55,35.39
+2024-12-29,Europe,UK,London,Julia,Store,Appliances,Microwave,3,44.92,18.19
+2024-09-03,Europe,Germany,Berlin,Ivan,Store,Furniture,Lamp,5,259.2,143.87
+2024-05-03,Europe,Spain,Madrid,Elena,Distributor,Office Supplies,Sticky Notes,4,181.35,128.73
+2024-08-30,APAC,Australia,Sydney,Diana,Online,Furniture,Desk,7,394.08,213.57
+2024-01-26,North America,USA,Los Angeles,Julia,Distributor,Office Supplies,Notebook,5,279.31,204.51
+2024-11-09,LATAM,Mexico,CDMX,Grace,Distributor,Furniture,Bookshelf,8,139.87,57.12
+2024-08-18,Europe,France,Paris,Elena,Store,Electronics,Laptop,1,154.77,109.53
+2024-02-12,Europe,Germany,Berlin,Hiro,Distributor,Appliances,Blender,9,488.24,325.63
+2024-08-24,Europe,Spain,Madrid,Ivan,Online,Appliances,Blender,3,69.48,44.88
+2024-11-04,Europe,France,Paris,Bob,Online,Appliances,Microwave,9,325.51,199.25
+2024-02-13,North America,Canada,Toronto,Elena,Distributor,Office Supplies,Planner,2,167.89,75.57
+2024-10-19,APAC,Japan,Tokyo,Julia,Online,Furniture,Bookshelf,8,65.84,39.14
+2024-12-03,North America,Canada,Toronto,Grace,Store,Appliances,Coffee Maker,2,72.77,38.95
+2024-12-07,Europe,Spain,Madrid,Ivan,Distributor,Appliances,Microwave,8,303.28,132.84
+2024-02-11,Europe,Germany,Berlin,Ivan,Online,Electronics,Monitor,8,221.72,127.66
+2024-01-09,LATAM,Argentina,Buenos Aires,Hiro,Online,Office Supplies,Sticky Notes,9,90.21,45.96
+2024-01-05,LATAM,Chile,Santiago,Hiro,Store,Appliances,Coffee Maker,4,69.54,33.31
+2024-06-02,LATAM,Mexico,CDMX,Alice,Store,Furniture,Desk,1,326.45,167.91
+2024-05-08,LATAM,Mexico,CDMX,Alice,Store,Office Supplies,Pen Set,7,440.84,221.91
+2024-12-06,APAC,China,Beijing,Alice,Online,Furniture,Bookshelf,2,321.67,157.11
+2024-09-30,LATAM,Chile,Santiago,Ivan,Store,Electronics,Monitor,8,376.61,234.68
+2024-01-05,Europe,Spain,Madrid,Bob,Online,Appliances,Blender,7,331.52,156.14
+2024-07-30,APAC,India,Mumbai,Bob,Distributor,Appliances,Coffee Maker,6,379.06,192.46
+2024-03-03,LATAM,Argentina,Buenos Aires,Alice,Distributor,Office Supplies,Sticky Notes,2,62.89,42.4
+2024-09-03,LATAM,Chile,Santiago,Diana,Distributor,Office Supplies,Notebook,4,410.71,199.36
+2024-05-29,North America,Canada,Vancouver,Alice,Store,Electronics,Tablet,3,83.83,45.01
+2024-01-02,APAC,India,Mumbai,Bob,Distributor,Furniture,Lamp,6,275.7,175.38
+2024-10-07,Europe,Spain,Madrid,Diana,Online,Appliances,Coffee Maker,8,309.85,137.07
+2024-07-21,LATAM,Chile,Santiago,Julia,Store,Furniture,Office Chair,7,347.55,260.43
+2024-05-25,Europe,Spain,Madrid,Ivan,Distributor,Electronics,Headphones,9,382.95,177.7
+2024-04-04,LATAM,Argentina,Buenos Aires,Elena,Online,Appliances,Blender,8,130.87,90.38
+2024-12-03,Europe,France,Paris,Hiro,Distributor,Furniture,Bookshelf,1,146.17,69.81
+2024-07-09,LATAM,Mexico,CDMX,Diana,Store,Furniture,Office Chair,2,109.98,68.41
+2024-05-30,North America,USA,Los Angeles,Diana,Online,Electronics,Tablet,7,311.34,210.2
+2024-08-11,LATAM,Argentina,Buenos Aires,Hiro,Store,Electronics,Smartphone,9,281.57,113.22
+2024-04-16,Europe,Germany,Berlin,Bob,Online,Office Supplies,Notebook,6,418.01,169.05
+2024-12-03,North America,Canada,Toronto,Bob,Online,Appliances,Coffee Maker,9,479.46,262.35
+2024-07-25,APAC,Australia,Sydney,Elena,Online,Office Supplies,Planner,3,422.57,248.53
+2024-12-11,North America,USA,New York,Julia,Online,Appliances,Microwave,3,498.2,272.68
+2024-01-15,LATAM,Argentina,Buenos Aires,Bob,Store,Electronics,Tablet,4,363.81,274.49
+2024-04-28,APAC,China,Beijing,Ivan,Distributor,Furniture,Desk,3,77.53,51.57
+2024-02-16,North America,USA,New York,Julia,Online,Office Supplies,Planner,6,350.85,140.79
+2024-12-01,LATAM,Argentina,Buenos Aires,Elena,Distributor,Electronics,Laptop,6,91.77,43.36
+2024-09-09,APAC,China,Beijing,Bob,Store,Office Supplies,Pen Set,4,207.14,155.29
+2024-10-30,North America,USA,Los Angeles,Julia,Store,Electronics,Tablet,3,41.78,26.4
+2024-05-26,APAC,Japan,Tokyo,Diana,Online,Office Supplies,Notebook,7,354.44,149.26
+2024-04-15,LATAM,Mexico,CDMX,Carlos,Store,Office Supplies,Planner,8,341.47,246.54
+2024-11-07,APAC,Japan,Tokyo,Carlos,Online,Furniture,Bookshelf,3,254.15,109.49
+2024-04-08,LATAM,Brazil,São Paulo,Diana,Distributor,Furniture,Desk,6,350.75,244.95
+2024-03-08,Europe,UK,London,Julia,Online,Office Supplies,Planner,6,112.82,82.36
+2024-01-13,APAC,Japan,Tokyo,Frank,Online,Appliances,Blender,3,225.7,103.59
+2024-11-03,Europe,UK,London,Bob,Store,Furniture,Lamp,7,370.4,183.1
+2024-08-24,APAC,Japan,Tokyo,Alice,Store,Office Supplies,Sticky Notes,4,40.65,29.29
+2024-07-10,North America,Canada,Toronto,Diana,Store,Appliances,Microwave,9,467.23,306.98
+2024-04-09,LATAM,Brazil,São Paulo,Frank,Online,Office Supplies,Sticky Notes,1,322.4,192.95
+2024-12-07,North America,USA,New York,Ivan,Distributor,Furniture,Desk,6,495.65,346.4
+2024-05-05,North America,USA,New York,Grace,Distributor,Furniture,Desk,7,290.22,184.32
+2024-07-02,North America,Canada,Vancouver,Carlos,Distributor,Office Supplies,Planner,9,287.12,227.36
+2024-04-16,APAC,Japan,Tokyo,Ivan,Distributor,Office Supplies,Planner,3,22.84,9.36
+2024-05-15,Europe,France,Paris,Grace,Online,Appliances,Coffee Maker,6,143.8,87.32
+2024-03-30,North America,Canada,Vancouver,Grace,Distributor,Electronics,Headphones,3,470.93,237.22
+2024-02-10,Europe,Spain,Madrid,Frank,Distributor,Office Supplies,Sticky Notes,3,194.69,113.83
+2024-01-01,LATAM,Chile,Santiago,Bob,Online,Furniture,Bookshelf,4,403.3,235.23
+2024-04-08,APAC,Australia,Sydney,Grace,Distributor,Office Supplies,Sticky Notes,5,355.95,232.25
+2024-06-06,Europe,Spain,Madrid,Diana,Store,Furniture,Lamp,7,452.92,345.92
+2024-09-28,LATAM,Brazil,São Paulo,Elena,Online,Office Supplies,Pen Set,8,367.46,259.5
+2024-01-26,APAC,Japan,Tokyo,Carlos,Store,Office Supplies,Notebook,6,120.36,54.47
+2024-10-31,North America,Canada,Vancouver,Frank,Store,Appliances,Coffee Maker,9,378.17,250.64
+2024-08-20,APAC,Japan,Tokyo,Bob,Store,Office Supplies,Pen Set,4,16.57,8.5
+2024-06-03,APAC,China,Beijing,Hiro,Online,Office Supplies,Sticky Notes,6,138.24,68.95
+2024-03-21,North America,USA,Los Angeles,Alice,Online,Office Supplies,Pen Set,8,487.67,267.48
+2024-04-08,LATAM,Chile,Santiago,Hiro,Store,Appliances,Microwave,9,390.59,166.45
+2024-02-03,North America,USA,Los Angeles,Frank,Store,Office Supplies,Pen Set,4,26.47,11.25
+2024-05-12,APAC,India,Mumbai,Alice,Online,Furniture,Desk,9,179.5,94.43
+2024-09-11,Europe,Germany,Berlin,Frank,Store,Office Supplies,Planner,7,52.35,25.9
+2024-09-02,APAC,China,Beijing,Alice,Online,Electronics,Monitor,8,278.68,125.74
+2024-05-08,APAC,Australia,Sydney,Hiro,Online,Office Supplies,Planner,7,202.79,148.27
+2024-11-16,APAC,China,Beijing,Julia,Online,Appliances,Blender,8,137.48,95.18
+2024-10-11,LATAM,Argentina,Buenos Aires,Grace,Online,Furniture,Lamp,5,135.7,89.79
+2024-04-29,Europe,UK,London,Bob,Online,Electronics,Tablet,5,287.01,168.07
+2024-01-28,Europe,Germany,Berlin,Julia,Online,Office Supplies,Sticky Notes,9,474.05,373.05
+2024-05-08,North America,Canada,Vancouver,Frank,Online,Electronics,Headphones,9,20.8,14.31
+2024-04-21,APAC,Australia,Sydney,Frank,Distributor,Electronics,Monitor,9,426.8,266.53
+2024-12-01,Europe,UK,London,Diana,Distributor,Electronics,Tablet,1,490.45,240.79
+2024-02-03,LATAM,Argentina,Buenos Aires,Grace,Distributor,Appliances,Coffee Maker,9,397.93,246.53
+2024-01-14,North America,USA,Los Angeles,Bob,Online,Electronics,Laptop,2,50.05,29.2
+2024-06-28,North America,Canada,Vancouver,Frank,Distributor,Office Supplies,Planner,1,220.03,100.42
+2024-01-19,North America,Canada,Toronto,Hiro,Store,Electronics,Monitor,6,426.49,284.73
+2024-12-31,North America,USA,New York,Elena,Online,Office Supplies,Pen Set,2,432.37,252.53
+2024-05-12,North America,Canada,Vancouver,Diana,Store,Electronics,Tablet,7,277.26,117.81
+2024-11-09,North America,USA,Los Angeles,Grace,Store,Office Supplies,Sticky Notes,8,64.85,35.17
+2024-06-08,Europe,UK,London,Elena,Online,Furniture,Desk,3,35.46,25.34
+2024-10-12,North America,Canada,Vancouver,Ivan,Store,Appliances,Blender,7,437.35,270.26
+2024-01-05,APAC,Japan,Tokyo,Frank,Distributor,Electronics,Laptop,4,380.81,231.44
+2024-08-12,APAC,Australia,Sydney,Grace,Online,Appliances,Blender,8,71.86,47.7
+2024-02-11,APAC,China,Beijing,Julia,Store,Furniture,Bookshelf,4,436.58,216.33
+2024-11-22,Europe,Spain,Madrid,Alice,Store,Appliances,Coffee Maker,9,284.49,199.23
+2024-04-20,Europe,UK,London,Frank,Store,Furniture,Office Chair,1,23.31,9.93
+2024-04-01,Europe,Spain,Madrid,Ivan,Online,Appliances,Coffee Maker,3,455.52,280.36
+2024-02-29,North America,Canada,Vancouver,Grace,Online,Appliances,Blender,4,401.19,220.16
+2024-04-22,Europe,UK,London,Carlos,Store,Furniture,Desk,7,412.83,227.95
+2024-12-20,LATAM,Chile,Santiago,Grace,Online,Office Supplies,Notebook,3,226.13,108.15
+2024-09-03,APAC,India,Mumbai,Hiro,Store,Electronics,Smartphone,8,150.7,108.07
+2024-01-01,Europe,Spain,Madrid,Hiro,Store,Office Supplies,Sticky Notes,4,145.46,76.36
+2024-03-22,APAC,China,Beijing,Carlos,Online,Furniture,Lamp,9,204.03,156.29
+2024-11-30,North America,USA,New York,Bob,Store,Appliances,Microwave,8,264.89,153.38
+2024-12-19,LATAM,Chile,Santiago,Frank,Store,Electronics,Smartphone,6,398.7,210.0
+2024-02-16,North America,USA,New York,Hiro,Distributor,Office Supplies,Pen Set,3,187.92,142.61
+2024-11-24,LATAM,Mexico,CDMX,Frank,Online,Office Supplies,Sticky Notes,8,258.46,165.22
+2024-02-08,North America,USA,New York,Julia,Online,Furniture,Bookshelf,7,100.27,75.96
+2024-11-11,APAC,India,Mumbai,Diana,Distributor,Appliances,Coffee Maker,5,225.76,145.87
+2024-04-27,LATAM,Brazil,São Paulo,Elena,Store,Electronics,Laptop,6,429.87,192.18
+2024-08-07,APAC,Japan,Tokyo,Diana,Online,Furniture,Lamp,7,483.89,274.42
+2024-04-20,LATAM,Chile,Santiago,Frank,Distributor,Furniture,Desk,7,69.99,48.3
+2024-06-17,APAC,Australia,Sydney,Hiro,Store,Electronics,Tablet,2,91.32,68.74
+2024-11-23,APAC,India,Mumbai,Grace,Store,Furniture,Lamp,7,73.61,49.67
+2024-11-15,Europe,France,Paris,Alice,Store,Electronics,Smartphone,3,268.43,184.61
+2024-08-05,LATAM,Mexico,CDMX,Alice,Store,Office Supplies,Sticky Notes,2,112.78,62.21
+2024-10-10,Europe,Germany,Berlin,Bob,Distributor,Office Supplies,Pen Set,3,101.83,75.69
+2024-07-19,LATAM,Chile,Santiago,Hiro,Store,Furniture,Bookshelf,4,459.92,204.34
+2024-09-09,LATAM,Argentina,Buenos Aires,Diana,Online,Electronics,Smartphone,9,240.87,175.51
+2024-12-11,Europe,Germany,Berlin,Hiro,Distributor,Furniture,Desk,9,185.32,110.76
+2024-10-04,North America,USA,New York,Diana,Store,Electronics,Monitor,3,441.11,269.15
+2024-04-29,APAC,Australia,Sydney,Alice,Online,Furniture,Bookshelf,5,65.34,28.41
+2024-12-11,North America,USA,Los Angeles,Julia,Distributor,Electronics,Monitor,1,127.54,58.26
+2024-05-25,North America,USA,Los Angeles,Hiro,Distributor,Electronics,Smartphone,9,372.44,177.47
+2024-12-29,APAC,India,Mumbai,Ivan,Online,Electronics,Smartphone,9,223.4,140.94
+2024-05-23,North America,Canada,Vancouver,Alice,Distributor,Electronics,Laptop,1,422.31,248.54
+2024-03-05,LATAM,Mexico,CDMX,Bob,Online,Office Supplies,Planner,3,25.25,17.57
+2024-10-06,LATAM,Mexico,CDMX,Julia,Distributor,Electronics,Laptop,2,169.3,114.2
+2024-12-13,North America,USA,New York,Carlos,Online,Office Supplies,Notebook,7,91.89,60.84
+2024-08-16,APAC,Japan,Tokyo,Ivan,Distributor,Furniture,Bookshelf,1,420.15,215.0
+2024-04-09,APAC,Japan,Tokyo,Frank,Online,Furniture,Office Chair,3,350.13,211.85
+2024-08-20,LATAM,Chile,Santiago,Frank,Store,Furniture,Desk,6,186.59,79.75
+2024-12-17,APAC,China,Beijing,Grace,Online,Appliances,Microwave,9,158.93,105.09
+2024-02-25,APAC,Japan,Tokyo,Diana,Distributor,Furniture,Lamp,4,436.89,308.63
+2024-12-11,Europe,UK,London,Frank,Online,Appliances,Blender,3,38.96,29.59
+2024-12-06,Europe,Spain,Madrid,Julia,Distributor,Office Supplies,Planner,3,454.53,303.76
+2024-11-11,Europe,France,Paris,Hiro,Online,Electronics,Smartphone,7,92.85,51.62
+2024-07-15,North America,Canada,Toronto,Alice,Distributor,Electronics,Headphones,6,121.1,66.93
+2024-04-07,LATAM,Brazil,São Paulo,Carlos,Online,Electronics,Tablet,3,212.25,153.02
+2024-01-01,LATAM,Chile,Santiago,Ivan,Distributor,Electronics,Monitor,4,18.82,10.7
+2024-07-20,Europe,UK,London,Diana,Distributor,Office Supplies,Planner,6,147.22,109.43
+2024-04-09,Europe,France,Paris,Ivan,Store,Electronics,Monitor,3,486.66,355.46
+2024-01-29,North America,Canada,Vancouver,Elena,Store,Appliances,Blender,3,404.4,164.67
+2024-03-12,Europe,UK,London,Ivan,Store,Furniture,Desk,7,314.46,196.12
+2024-03-07,LATAM,Chile,Santiago,Julia,Store,Electronics,Monitor,7,271.01,177.25
+2024-08-24,North America,Canada,Vancouver,Frank,Distributor,Appliances,Microwave,4,65.16,44.4
+2024-10-16,APAC,China,Beijing,Grace,Store,Office Supplies,Sticky Notes,4,57.3,28.46
+2024-03-30,APAC,Japan,Tokyo,Julia,Online,Electronics,Laptop,1,239.7,124.77
+2024-01-28,APAC,China,Beijing,Elena,Store,Electronics,Headphones,5,155.65,80.93
+2024-08-01,Europe,Germany,Berlin,Frank,Distributor,Appliances,Blender,9,33.59,25.57
+2024-01-08,LATAM,Chile,Santiago,Grace,Store,Office Supplies,Notebook,8,439.86,234.08
+2024-07-19,Europe,Germany,Berlin,Diana,Distributor,Appliances,Coffee Maker,6,447.23,212.05
+2024-03-29,North America,Canada,Toronto,Grace,Online,Furniture,Lamp,7,270.35,198.78
+2024-04-23,Europe,Germany,Berlin,Carlos,Distributor,Electronics,Smartphone,3,141.21,101.06
+2024-05-26,Europe,France,Paris,Hiro,Store,Office Supplies,Sticky Notes,5,265.51,112.96
+2024-02-28,LATAM,Mexico,CDMX,Carlos,Store,Appliances,Blender,4,117.91,70.2
+2024-01-21,APAC,Australia,Sydney,Diana,Online,Office Supplies,Notebook,5,55.99,42.77
+2024-08-15,LATAM,Argentina,Buenos Aires,Grace,Online,Furniture,Office Chair,4,435.59,185.51
+2024-04-21,Europe,Germany,Berlin,Alice,Store,Furniture,Office Chair,1,22.32,15.13
+2024-09-24,Europe,Spain,Madrid,Alice,Store,Office Supplies,Sticky Notes,8,165.3,94.86
+2024-12-31,Europe,Germany,Berlin,Carlos,Distributor,Appliances,Coffee Maker,9,177.0,82.47
+2024-01-23,Europe,UK,London,Grace,Store,Electronics,Monitor,6,307.47,200.63
+2024-01-06,LATAM,Mexico,CDMX,Hiro,Online,Furniture,Office Chair,4,396.51,260.05
+2024-05-13,LATAM,Argentina,Buenos Aires,Alice,Distributor,Furniture,Bookshelf,7,261.06,115.31
+2024-08-04,North America,USA,New York,Carlos,Online,Electronics,Smartphone,6,395.51,311.78
+2024-09-24,Europe,Germany,Berlin,Grace,Distributor,Furniture,Desk,2,143.07,84.29
+2024-02-11,Europe,Spain,Madrid,Hiro,Store,Furniture,Desk,9,258.07,168.69
+2024-11-08,Europe,France,Paris,Bob,Online,Appliances,Blender,6,446.83,179.25
+2024-09-14,Europe,Germany,Berlin,Carlos,Distributor,Furniture,Lamp,6,32.37,14.76
+2024-02-08,Europe,France,Paris,Carlos,Store,Office Supplies,Sticky Notes,1,230.73,135.94
+2024-02-08,North America,USA,New York,Alice,Online,Electronics,Monitor,3,106.09,68.36
+2024-11-26,North America,USA,New York,Bob,Store,Furniture,Desk,4,111.43,67.6
+2024-10-06,LATAM,Argentina,Buenos Aires,Elena,Distributor,Office Supplies,Sticky Notes,6,428.53,179.9
+2024-12-30,APAC,India,Mumbai,Alice,Distributor,Appliances,Microwave,8,27.99,12.41
+2024-01-10,North America,Canada,Vancouver,Carlos,Store,Electronics,Laptop,7,403.27,253.58
+2024-05-01,LATAM,Argentina,Buenos Aires,Ivan,Distributor,Electronics,Smartphone,6,466.56,260.72
+2024-04-30,North America,USA,New York,Ivan,Distributor,Furniture,Lamp,5,149.44,108.69
+2024-01-25,North America,Canada,Toronto,Ivan,Distributor,Appliances,Microwave,5,179.16,108.03
+2024-12-11,Europe,France,Paris,Ivan,Distributor,Electronics,Monitor,9,24.54,16.45
+2024-10-15,LATAM,Mexico,CDMX,Bob,Store,Furniture,Desk,3,230.79,178.12
+2024-07-13,Europe,UK,London,Grace,Store,Furniture,Office Chair,1,201.04,139.11
+2024-08-16,Europe,Germany,Berlin,Diana,Distributor,Appliances,Microwave,8,454.73,311.77
+2024-10-15,Europe,UK,London,Diana,Distributor,Furniture,Office Chair,1,413.66,323.49
+2024-06-12,APAC,Japan,Tokyo,Elena,Store,Appliances,Microwave,5,10.77,7.05
+2024-10-30,Europe,UK,London,Frank,Store,Electronics,Laptop,7,361.61,264.64
+2024-10-08,APAC,Australia,Sydney,Ivan,Store,Appliances,Coffee Maker,1,305.86,206.34
+2024-11-30,Europe,UK,London,Hiro,Online,Electronics,Laptop,2,335.99,241.96
+2024-02-05,North America,USA,Los Angeles,Bob,Store,Appliances,Microwave,4,190.84,85.57
+2024-06-29,Europe,UK,London,Hiro,Online,Electronics,Headphones,8,378.08,161.97
+2024-05-24,APAC,India,Mumbai,Diana,Distributor,Electronics,Tablet,3,183.84,142.79
+2024-06-09,North America,USA,Los Angeles,Frank,Store,Office Supplies,Planner,9,326.76,246.77
+2024-03-30,APAC,China,Beijing,Ivan,Online,Office Supplies,Planner,2,78.05,34.83
+2024-07-31,Europe,UK,London,Grace,Distributor,Office Supplies,Planner,7,438.11,302.12
+2024-10-28,APAC,India,Mumbai,Hiro,Store,Appliances,Coffee Maker,5,452.2,192.9
+2024-11-11,APAC,Australia,Sydney,Frank,Distributor,Appliances,Microwave,8,411.81,279.19
+2024-02-21,Europe,Germany,Berlin,Diana,Online,Appliances,Coffee Maker,3,229.94,99.74
+2024-04-15,Europe,Spain,Madrid,Grace,Distributor,Electronics,Smartphone,5,70.27,43.81
+2024-02-10,North America,USA,Los Angeles,Elena,Store,Furniture,Bookshelf,9,367.3,242.75
+2024-08-24,North America,USA,Los Angeles,Bob,Store,Office Supplies,Planner,5,349.32,199.8
+2024-01-26,APAC,Japan,Tokyo,Elena,Store,Appliances,Microwave,3,48.03,29.64
+2024-02-15,LATAM,Chile,Santiago,Elena,Distributor,Appliances,Blender,6,396.6,229.46
+2024-10-10,APAC,China,Beijing,Carlos,Distributor,Office Supplies,Planner,2,198.28,115.01
+2024-11-18,APAC,Australia,Sydney,Grace,Store,Office Supplies,Pen Set,9,221.18,116.68
+2024-05-08,North America,Canada,Vancouver,Grace,Distributor,Electronics,Headphones,9,23.44,13.06
+2024-05-10,LATAM,Argentina,Buenos Aires,Hiro,Distributor,Furniture,Lamp,8,193.53,90.33
+2024-10-29,APAC,India,Mumbai,Alice,Distributor,Furniture,Desk,5,326.41,136.41
+2024-07-21,Europe,France,Paris,Alice,Store,Appliances,Coffee Maker,1,179.48,82.88
+2024-03-29,APAC,China,Beijing,Alice,Online,Furniture,Lamp,2,322.08,172.71
+2024-08-09,APAC,India,Mumbai,Carlos,Online,Office Supplies,Notebook,1,59.62,44.05
+2024-08-26,North America,Canada,Vancouver,Frank,Online,Electronics,Smartphone,8,188.65,91.9
+2024-01-07,Europe,Germany,Berlin,Hiro,Distributor,Furniture,Desk,6,232.46,156.98
+2024-05-05,LATAM,Argentina,Buenos Aires,Frank,Distributor,Electronics,Smartphone,2,247.94,101.91
+2024-08-23,LATAM,Argentina,Buenos Aires,Carlos,Online,Office Supplies,Notebook,3,482.37,267.08
+2024-06-20,APAC,China,Beijing,Grace,Online,Appliances,Coffee Maker,6,463.56,262.22
+2024-09-08,APAC,India,Mumbai,Alice,Online,Office Supplies,Sticky Notes,3,21.44,15.06
+2024-03-16,LATAM,Argentina,Buenos Aires,Hiro,Store,Furniture,Office Chair,5,151.73,115.32
+2024-08-18,Europe,Spain,Madrid,Frank,Online,Furniture,Lamp,5,478.4,251.44
+2024-08-13,North America,USA,Los Angeles,Julia,Store,Electronics,Laptop,7,227.62,181.63
+2024-02-04,LATAM,Brazil,São Paulo,Grace,Online,Appliances,Microwave,9,492.17,253.65
+2024-01-12,North America,Canada,Vancouver,Bob,Distributor,Appliances,Blender,4,25.16,19.83
+2024-08-29,Europe,UK,London,Carlos,Distributor,Furniture,Lamp,6,275.29,127.09
+2024-03-26,North America,USA,Los Angeles,Alice,Online,Appliances,Microwave,1,270.81,126.56
+2024-09-15,LATAM,Mexico,CDMX,Bob,Distributor,Office Supplies,Sticky Notes,5,418.49,241.12
+2024-08-07,Europe,Germany,Berlin,Elena,Store,Office Supplies,Pen Set,2,137.07,65.5
+2024-09-29,APAC,Australia,Sydney,Frank,Store,Electronics,Tablet,1,258.65,173.54
+2024-01-09,APAC,Australia,Sydney,Alice,Online,Office Supplies,Pen Set,5,483.54,301.29
+2024-08-11,Europe,UK,London,Grace,Store,Office Supplies,Pen Set,3,90.97,57.6
+2024-10-03,Europe,Germany,Berlin,Bob,Store,Office Supplies,Sticky Notes,3,83.76,60.87
+2024-10-06,APAC,Japan,Tokyo,Hiro,Distributor,Electronics,Monitor,4,206.87,164.99
+2024-04-01,Europe,France,Paris,Elena,Distributor,Furniture,Office Chair,2,315.47,198.04
+2024-06-19,Europe,Germany,Berlin,Hiro,Online,Appliances,Microwave,3,108.64,60.63
+2024-01-14,North America,USA,New York,Ivan,Distributor,Office Supplies,Planner,5,243.02,149.99
+2024-02-12,LATAM,Brazil,São Paulo,Carlos,Distributor,Office Supplies,Sticky Notes,3,74.86,47.7
+2024-04-28,APAC,Japan,Tokyo,Julia,Online,Furniture,Lamp,2,363.85,223.17
+2024-04-28,LATAM,Brazil,São Paulo,Elena,Store,Electronics,Monitor,6,74.02,53.01
+2024-05-23,APAC,China,Beijing,Ivan,Store,Furniture,Office Chair,5,399.16,203.69
+2024-04-17,LATAM,Chile,Santiago,Hiro,Store,Appliances,Blender,6,82.91,48.51
+2024-05-01,Europe,Germany,Berlin,Frank,Store,Office Supplies,Planner,4,433.14,275.26
+2024-03-30,Europe,France,Paris,Julia,Distributor,Appliances,Microwave,4,150.03,72.21
+2024-08-21,APAC,China,Beijing,Julia,Online,Appliances,Microwave,8,226.2,145.29
+2024-12-29,North America,USA,New York,Ivan,Distributor,Furniture,Lamp,9,187.51,129.44
+2024-02-06,Europe,Spain,Madrid,Carlos,Distributor,Furniture,Desk,5,490.56,276.2
+2024-04-01,North America,USA,Los Angeles,Hiro,Store,Furniture,Office Chair,3,305.04,194.18
+2024-03-16,LATAM,Brazil,São Paulo,Grace,Online,Appliances,Coffee Maker,7,478.46,229.75
+2024-07-15,Europe,UK,London,Hiro,Distributor,Appliances,Microwave,9,39.14,15.71
+2024-05-30,LATAM,Argentina,Buenos Aires,Elena,Online,Office Supplies,Notebook,1,425.01,321.83
+2024-11-11,LATAM,Mexico,CDMX,Julia,Online,Office Supplies,Sticky Notes,3,162.83,81.81
+2024-10-29,APAC,India,Mumbai,Hiro,Distributor,Appliances,Blender,5,260.11,169.24
+2024-10-28,North America,Canada,Vancouver,Elena,Store,Furniture,Office Chair,7,19.37,11.44
+2024-01-22,LATAM,Mexico,CDMX,Frank,Distributor,Appliances,Blender,6,364.13,246.52
+2024-12-05,LATAM,Chile,Santiago,Elena,Store,Office Supplies,Pen Set,5,185.77,134.08
+2024-09-09,Europe,Spain,Madrid,Alice,Online,Electronics,Monitor,8,369.2,225.74
+2024-09-03,LATAM,Brazil,São Paulo,Bob,Store,Appliances,Microwave,3,498.93,334.65
+2024-11-26,APAC,Australia,Sydney,Julia,Distributor,Electronics,Headphones,1,54.01,21.65
+2024-01-13,North America,USA,Los Angeles,Alice,Store,Appliances,Microwave,3,371.56,272.6
+2024-05-18,Europe,France,Paris,Alice,Distributor,Office Supplies,Planner,1,43.82,17.63
+2024-05-26,APAC,China,Beijing,Grace,Distributor,Office Supplies,Notebook,8,386.77,256.59
+2024-01-01,APAC,Australia,Sydney,Elena,Online,Office Supplies,Sticky Notes,1,424.5,273.99
+2024-04-08,LATAM,Argentina,Buenos Aires,Julia,Distributor,Appliances,Blender,8,205.56,141.68
+2024-10-05,Europe,France,Paris,Ivan,Store,Office Supplies,Planner,4,209.48,89.32
+2024-02-26,APAC,China,Beijing,Frank,Online,Office Supplies,Planner,3,279.07,182.19
+2024-06-18,LATAM,Chile,Santiago,Julia,Online,Furniture,Desk,2,12.98,5.72
+2024-06-08,LATAM,Chile,Santiago,Ivan,Distributor,Appliances,Coffee Maker,6,156.79,67.54
+2024-04-21,LATAM,Mexico,CDMX,Alice,Store,Appliances,Coffee Maker,7,422.62,210.0
+2024-03-02,North America,Canada,Vancouver,Carlos,Distributor,Furniture,Office Chair,6,34.61,14.85
+2024-07-02,North America,Canada,Vancouver,Bob,Online,Furniture,Lamp,8,154.69,76.26
+2024-10-15,APAC,India,Mumbai,Ivan,Online,Appliances,Blender,7,206.64,106.83
+2024-04-05,LATAM,Argentina,Buenos Aires,Alice,Store,Office Supplies,Sticky Notes,8,208.5,158.97
+2024-01-09,LATAM,Brazil,São Paulo,Hiro,Store,Electronics,Monitor,7,243.45,119.39
+2024-08-28,North America,USA,New York,Diana,Store,Appliances,Coffee Maker,9,117.44,48.56
+2024-07-08,Europe,UK,London,Hiro,Distributor,Office Supplies,Planner,3,185.33,122.16
+2024-11-11,Europe,Germany,Berlin,Bob,Store,Appliances,Blender,6,102.04,70.2
+2024-12-01,APAC,Australia,Sydney,Julia,Distributor,Office Supplies,Planner,4,316.14,135.53
+2024-05-26,APAC,Japan,Tokyo,Elena,Store,Furniture,Bookshelf,2,128.55,88.13
+2024-12-11,Europe,UK,London,Grace,Store,Electronics,Laptop,4,158.57,81.82
+2024-12-04,LATAM,Chile,Santiago,Elena,Store,Furniture,Office Chair,4,80.01,56.82
+2024-01-20,APAC,China,Beijing,Hiro,Online,Furniture,Bookshelf,2,206.71,95.8
+2024-01-10,Europe,UK,London,Ivan,Online,Electronics,Monitor,2,75.58,49.26
+2024-01-13,LATAM,Argentina,Buenos Aires,Hiro,Distributor,Furniture,Bookshelf,9,376.84,198.61
+2024-02-07,APAC,Japan,Tokyo,Elena,Online,Furniture,Bookshelf,1,260.45,109.06
+2024-02-26,North America,USA,New York,Hiro,Store,Office Supplies,Sticky Notes,6,356.42,151.51
+2024-04-05,Europe,Germany,Berlin,Ivan,Online,Appliances,Blender,2,238.81,128.04
+2024-12-12,LATAM,Chile,Santiago,Ivan,Store,Appliances,Blender,9,50.53,39.03
+2024-04-12,North America,USA,New York,Alice,Store,Electronics,Headphones,9,186.51,94.78
+2024-04-27,LATAM,Mexico,CDMX,Grace,Online,Furniture,Bookshelf,2,163.54,117.02
+2024-10-30,North America,Canada,Vancouver,Elena,Online,Office Supplies,Pen Set,3,222.57,170.04
+2024-03-09,North America,Canada,Toronto,Carlos,Distributor,Office Supplies,Pen Set,8,482.4,210.19
+2024-09-14,North America,Canada,Toronto,Ivan,Store,Appliances,Coffee Maker,7,251.97,139.86
+2024-04-10,Europe,Spain,Madrid,Hiro,Online,Appliances,Coffee Maker,9,354.89,142.58
+2024-07-06,APAC,Japan,Tokyo,Elena,Store,Electronics,Monitor,7,134.57,100.96
+2024-12-17,LATAM,Argentina,Buenos Aires,Alice,Store,Office Supplies,Sticky Notes,5,483.36,340.49
+2024-04-04,APAC,China,Beijing,Bob,Distributor,Office Supplies,Notebook,1,341.29,265.38
+2024-05-21,Europe,UK,London,Hiro,Distributor,Electronics,Monitor,9,61.63,43.93
+2024-01-29,Europe,Spain,Madrid,Hiro,Store,Office Supplies,Planner,5,33.61,18.28
+2024-10-06,APAC,Japan,Tokyo,Diana,Store,Appliances,Coffee Maker,7,255.2,146.25
+2024-05-08,North America,USA,New York,Diana,Online,Furniture,Office Chair,2,320.87,227.28
+2024-10-18,APAC,China,Beijing,Grace,Store,Appliances,Blender,9,35.65,25.21
+2024-05-03,North America,Canada,Vancouver,Carlos,Distributor,Appliances,Microwave,2,280.51,158.86
+2024-12-20,North America,Canada,Vancouver,Frank,Store,Appliances,Microwave,2,113.88,75.5
+2024-07-20,North America,Canada,Toronto,Hiro,Distributor,Electronics,Monitor,6,441.28,214.59
+2024-05-23,APAC,Australia,Sydney,Bob,Store,Office Supplies,Sticky Notes,7,307.8,159.48
+2024-11-11,LATAM,Mexico,CDMX,Frank,Distributor,Appliances,Microwave,8,466.1,209.88
+2024-09-06,Europe,Germany,Berlin,Hiro,Online,Appliances,Coffee Maker,3,164.66,108.34
+2024-01-05,North America,Canada,Toronto,Julia,Online,Electronics,Laptop,5,344.28,202.18
+2024-05-10,LATAM,Chile,Santiago,Frank,Distributor,Appliances,Coffee Maker,1,446.21,229.78
+2024-05-05,Europe,Spain,Madrid,Grace,Distributor,Electronics,Laptop,3,336.76,245.61
+2024-08-23,LATAM,Chile,Santiago,Alice,Online,Office Supplies,Notebook,6,262.77,133.23
+2024-12-06,North America,USA,New York,Ivan,Online,Appliances,Blender,5,347.14,172.44
+2024-10-28,LATAM,Argentina,Buenos Aires,Ivan,Distributor,Office Supplies,Pen Set,6,175.3,71.48
+2024-09-21,LATAM,Chile,Santiago,Julia,Store,Electronics,Headphones,4,474.93,195.94
+2024-06-15,North America,Canada,Vancouver,Julia,Online,Furniture,Bookshelf,3,208.1,127.44
+2024-02-26,Europe,France,Paris,Frank,Online,Office Supplies,Planner,6,140.67,97.05
+2024-03-18,LATAM,Argentina,Buenos Aires,Frank,Online,Office Supplies,Sticky Notes,9,482.11,292.94
+2024-12-07,APAC,Japan,Tokyo,Diana,Distributor,Electronics,Laptop,6,383.53,223.2
+2024-03-02,North America,Canada,Toronto,Carlos,Distributor,Furniture,Bookshelf,1,265.44,209.81
+2024-04-01,North America,USA,New York,Ivan,Online,Office Supplies,Sticky Notes,6,18.3,12.96
+2024-12-22,Europe,Germany,Berlin,Diana,Distributor,Electronics,Laptop,9,68.9,34.88
+2024-04-17,APAC,Japan,Tokyo,Alice,Online,Furniture,Office Chair,5,177.48,123.46
+2024-05-01,APAC,China,Beijing,Grace,Distributor,Furniture,Office Chair,7,180.57,99.08
+2024-06-08,North America,USA,Los Angeles,Carlos,Online,Office Supplies,Notebook,5,326.76,258.04
+2024-11-10,Europe,Germany,Berlin,Frank,Store,Furniture,Desk,3,21.56,16.37
+2024-07-25,LATAM,Mexico,CDMX,Ivan,Online,Furniture,Desk,1,307.01,158.56
+2024-04-22,Europe,Germany,Berlin,Elena,Distributor,Electronics,Smartphone,6,84.64,64.31
+2024-06-12,LATAM,Argentina,Buenos Aires,Carlos,Store,Office Supplies,Notebook,9,469.32,300.98
+2024-02-20,Europe,Spain,Madrid,Bob,Distributor,Appliances,Coffee Maker,7,339.1,214.61
+2024-01-20,APAC,China,Beijing,Frank,Online,Office Supplies,Pen Set,8,471.93,336.99
+2024-01-16,North America,Canada,Toronto,Diana,Store,Furniture,Lamp,4,276.8,217.32
+2024-03-03,North America,USA,Los Angeles,Diana,Online,Appliances,Coffee Maker,6,189.18,92.73
+2024-07-04,LATAM,Chile,Santiago,Diana,Distributor,Appliances,Microwave,7,78.99,51.26
+2024-04-27,North America,Canada,Vancouver,Grace,Distributor,Office Supplies,Notebook,3,82.01,59.41
+2024-04-08,LATAM,Mexico,CDMX,Alice,Online,Office Supplies,Planner,8,454.15,211.43
+2024-10-09,North America,Canada,Toronto,Ivan,Distributor,Furniture,Bookshelf,1,179.14,137.4
+2024-04-03,North America,Canada,Vancouver,Bob,Distributor,Furniture,Office Chair,8,365.24,224.81
+2024-09-28,LATAM,Argentina,Buenos Aires,Carlos,Store,Electronics,Monitor,9,348.1,235.33
+2024-05-22,LATAM,Brazil,São Paulo,Julia,Distributor,Electronics,Monitor,2,13.84,9.03
+2024-08-13,APAC,China,Beijing,Grace,Store,Electronics,Laptop,8,75.79,59.36
+2024-12-08,APAC,China,Beijing,Frank,Distributor,Appliances,Coffee Maker,2,128.53,77.15
+2024-04-05,APAC,China,Beijing,Ivan,Distributor,Electronics,Monitor,5,481.53,312.21
+2024-04-24,North America,USA,Los Angeles,Frank,Store,Furniture,Bookshelf,6,382.82,236.87
+2024-12-01,Europe,UK,London,Grace,Distributor,Office Supplies,Pen Set,3,91.22,52.74
+2024-02-22,North America,USA,New York,Elena,Online,Furniture,Office Chair,1,77.13,61.55
+2024-04-15,APAC,China,Beijing,Elena,Distributor,Electronics,Laptop,2,428.35,212.8
+2024-04-22,North America,USA,Los Angeles,Grace,Distributor,Appliances,Coffee Maker,6,63.36,41.48
+2024-06-09,Europe,UK,London,Alice,Distributor,Appliances,Blender,8,358.74,284.29
+2024-04-22,North America,USA,Los Angeles,Ivan,Store,Appliances,Blender,9,117.37,68.5
+2024-10-19,LATAM,Brazil,São Paulo,Bob,Distributor,Office Supplies,Planner,2,300.84,129.13
+2024-03-21,Europe,Spain,Madrid,Alice,Online,Furniture,Lamp,6,16.38,6.64
+2024-09-20,APAC,India,Mumbai,Alice,Distributor,Appliances,Blender,3,368.74,199.86
+2024-04-12,Europe,France,Paris,Carlos,Store,Electronics,Monitor,1,480.47,292.41
+2024-08-26,Europe,Spain,Madrid,Alice,Online,Electronics,Headphones,2,483.86,269.57
+2024-02-22,APAC,Japan,Tokyo,Bob,Store,Office Supplies,Notebook,8,388.81,203.74
+2024-04-20,Europe,UK,London,Julia,Store,Electronics,Monitor,1,234.53,167.11
+2024-08-18,Europe,France,Paris,Grace,Distributor,Appliances,Coffee Maker,4,286.89,203.3
+2024-11-30,APAC,China,Beijing,Julia,Online,Electronics,Tablet,6,305.5,224.29
+2024-08-07,Europe,Spain,Madrid,Hiro,Online,Electronics,Tablet,4,184.94,142.49
+2024-08-07,North America,Canada,Toronto,Julia,Distributor,Appliances,Coffee Maker,5,118.82,62.82
+2024-01-01,LATAM,Argentina,Buenos Aires,Hiro,Distributor,Office Supplies,Notebook,2,262.19,189.64
+2024-02-03,LATAM,Brazil,São Paulo,Frank,Distributor,Office Supplies,Sticky Notes,6,220.06,90.59
+2024-12-01,North America,USA,New York,Diana,Store,Furniture,Bookshelf,3,448.37,179.43
+2024-04-28,APAC,India,Mumbai,Alice,Online,Furniture,Bookshelf,4,151.55,84.74
+2024-06-06,Europe,UK,London,Frank,Store,Appliances,Blender,2,496.69,207.6
+2024-05-24,APAC,India,Mumbai,Diana,Distributor,Furniture,Office Chair,7,192.14,107.02
+2024-08-05,North America,USA,New York,Julia,Online,Furniture,Bookshelf,5,25.98,10.99
+2024-05-16,LATAM,Brazil,São Paulo,Ivan,Store,Furniture,Bookshelf,7,292.79,158.94
+2024-09-08,APAC,Japan,Tokyo,Bob,Distributor,Furniture,Office Chair,2,496.3,275.21
+2024-12-20,LATAM,Chile,Santiago,Alice,Online,Office Supplies,Pen Set,5,185.7,123.05
+2024-05-14,North America,Canada,Vancouver,Ivan,Distributor,Appliances,Coffee Maker,2,452.1,339.5
+2024-02-11,North America,Canada,Toronto,Hiro,Store,Electronics,Laptop,4,59.88,36.07
+2024-05-06,North America,Canada,Vancouver,Hiro,Store,Office Supplies,Sticky Notes,9,29.08,12.05
+2024-03-30,LATAM,Brazil,São Paulo,Alice,Distributor,Furniture,Lamp,1,82.61,55.5
+2024-08-25,APAC,Japan,Tokyo,Alice,Online,Electronics,Tablet,9,475.72,300.96
+2024-05-25,LATAM,Argentina,Buenos Aires,Diana,Online,Appliances,Coffee Maker,8,294.24,178.51
+2024-10-03,North America,USA,Los Angeles,Diana,Distributor,Office Supplies,Sticky Notes,3,148.42,80.33
+2024-03-05,North America,Canada,Vancouver,Bob,Distributor,Office Supplies,Sticky Notes,7,473.76,358.65
+2024-06-28,North America,USA,New York,Carlos,Store,Electronics,Smartphone,5,383.92,279.98
+2024-12-29,LATAM,Mexico,CDMX,Carlos,Online,Furniture,Desk,4,253.79,122.29
+2024-09-05,APAC,Japan,Tokyo,Julia,Store,Electronics,Headphones,8,101.21,53.91
+2024-01-04,LATAM,Chile,Santiago,Elena,Online,Office Supplies,Sticky Notes,7,26.08,17.07
+2024-04-28,Europe,France,Paris,Diana,Online,Electronics,Smartphone,4,154.67,116.28
+2024-06-09,North America,USA,Los Angeles,Ivan,Store,Furniture,Desk,1,210.61,152.56
+2024-08-09,APAC,Australia,Sydney,Frank,Online,Furniture,Bookshelf,8,33.34,23.03
+2024-02-27,North America,USA,Los Angeles,Alice,Online,Electronics,Laptop,8,182.78,133.41
+2024-08-20,North America,Canada,Vancouver,Frank,Store,Office Supplies,Notebook,2,439.18,270.38
+2024-01-10,Europe,France,Paris,Ivan,Store,Appliances,Coffee Maker,8,152.11,117.49
+2024-04-27,LATAM,Brazil,São Paulo,Bob,Online,Office Supplies,Pen Set,5,385.12,154.05
+2024-09-29,APAC,China,Beijing,Hiro,Distributor,Furniture,Lamp,9,40.05,21.82
+2024-05-15,APAC,India,Mumbai,Hiro,Distributor,Furniture,Bookshelf,9,486.81,238.76
+2024-04-21,North America,Canada,Vancouver,Bob,Store,Appliances,Blender,6,14.94,8.59
+2024-07-21,North America,Canada,Vancouver,Julia,Store,Furniture,Desk,3,35.43,16.88
+2024-03-01,North America,Canada,Vancouver,Ivan,Distributor,Electronics,Tablet,6,368.55,241.86
+2024-10-01,APAC,Japan,Tokyo,Ivan,Distributor,Electronics,Smartphone,9,425.73,242.26
+2024-07-10,LATAM,Mexico,CDMX,Diana,Store,Office Supplies,Pen Set,2,449.06,326.56
+2024-06-01,APAC,Australia,Sydney,Julia,Online,Appliances,Microwave,3,98.99,54.28
+2024-02-29,LATAM,Brazil,São Paulo,Diana,Distributor,Electronics,Headphones,6,208.82,101.94
+2024-04-04,LATAM,Argentina,Buenos Aires,Elena,Online,Electronics,Tablet,6,202.67,128.95
+2024-12-25,APAC,Australia,Sydney,Julia,Online,Electronics,Smartphone,1,196.54,111.2
+2024-05-05,APAC,India,Mumbai,Alice,Distributor,Furniture,Lamp,2,392.51,248.66
+2024-12-23,LATAM,Argentina,Buenos Aires,Alice,Online,Appliances,Coffee Maker,6,140.01,89.69
+2024-04-08,LATAM,Brazil,São Paulo,Frank,Store,Appliances,Blender,4,319.76,144.52
+2024-04-17,North America,USA,Los Angeles,Frank,Store,Furniture,Lamp,5,60.23,36.47
+2024-09-02,Europe,Germany,Berlin,Alice,Online,Appliances,Blender,9,94.32,74.42
+2024-12-25,North America,Canada,Vancouver,Julia,Store,Electronics,Headphones,8,87.92,41.51
+2024-06-26,Europe,UK,London,Julia,Store,Furniture,Lamp,7,236.24,181.53
+2024-10-12,APAC,Japan,Tokyo,Bob,Distributor,Office Supplies,Notebook,7,71.31,52.78
+2024-04-12,LATAM,Brazil,São Paulo,Grace,Distributor,Appliances,Coffee Maker,9,144.3,104.3
+2024-11-30,North America,Canada,Vancouver,Alice,Online,Electronics,Smartphone,9,179.22,95.75
+2024-09-16,Europe,Spain,Madrid,Ivan,Online,Electronics,Headphones,4,87.09,38.98
+2024-01-25,North America,USA,Los Angeles,Julia,Store,Office Supplies,Notebook,1,366.26,228.85
+2024-09-03,LATAM,Mexico,CDMX,Bob,Store,Appliances,Microwave,7,279.16,146.5
+2024-02-27,APAC,India,Mumbai,Hiro,Store,Appliances,Coffee Maker,4,395.24,274.21
+2024-01-25,North America,Canada,Toronto,Alice,Online,Furniture,Bookshelf,2,17.87,12.74
+2024-09-14,Europe,Germany,Berlin,Frank,Distributor,Appliances,Blender,3,15.59,10.62
+2024-08-05,Europe,UK,London,Ivan,Distributor,Office Supplies,Pen Set,2,224.45,110.88
+2024-08-04,North America,Canada,Toronto,Alice,Online,Appliances,Coffee Maker,3,356.03,218.5
+2024-02-23,APAC,India,Mumbai,Julia,Online,Office Supplies,Sticky Notes,8,35.32,21.26
+2024-09-10,Europe,UK,London,Ivan,Store,Office Supplies,Pen Set,6,68.06,53.4
+2024-02-05,North America,Canada,Toronto,Frank,Distributor,Appliances,Coffee Maker,3,476.71,233.92
+2024-10-29,LATAM,Chile,Santiago,Grace,Store,Electronics,Monitor,9,87.06,45.61
+2024-01-08,LATAM,Argentina,Buenos Aires,Hiro,Distributor,Electronics,Monitor,7,165.11,119.96
+2024-11-03,APAC,China,Beijing,Diana,Distributor,Office Supplies,Planner,9,400.37,200.26
+2024-02-23,LATAM,Mexico,CDMX,Carlos,Online,Office Supplies,Sticky Notes,8,468.3,346.67
+2024-11-12,Europe,Spain,Madrid,Carlos,Online,Office Supplies,Notebook,7,453.98,183.8
+2024-11-13,LATAM,Mexico,CDMX,Carlos,Distributor,Furniture,Office Chair,8,35.4,21.93
+2024-06-21,North America,Canada,Toronto,Alice,Distributor,Electronics,Monitor,5,160.32,86.76
+2024-02-22,LATAM,Chile,Santiago,Frank,Store,Electronics,Headphones,1,468.15,267.88
+2024-04-14,Europe,Spain,Madrid,Ivan,Store,Office Supplies,Pen Set,5,43.49,31.03
+2024-01-10,Europe,Germany,Berlin,Grace,Distributor,Appliances,Microwave,2,222.06,149.71
+2024-11-12,Europe,Germany,Berlin,Frank,Online,Furniture,Desk,5,45.33,21.86
+2024-07-09,Europe,Germany,Berlin,Diana,Distributor,Furniture,Lamp,7,472.78,310.47
+2024-05-27,APAC,India,Mumbai,Grace,Online,Furniture,Desk,6,369.41,164.93
+2024-12-05,APAC,Australia,Sydney,Carlos,Distributor,Appliances,Blender,7,214.98,150.57
+2024-08-12,North America,Canada,Toronto,Grace,Store,Electronics,Headphones,8,495.28,262.55
+2024-08-02,APAC,China,Beijing,Diana,Store,Office Supplies,Notebook,9,490.38,209.39
+2024-09-06,North America,USA,Los Angeles,Diana,Online,Office Supplies,Notebook,1,60.53,37.47
+2024-06-21,LATAM,Brazil,São Paulo,Elena,Distributor,Furniture,Lamp,9,371.56,253.34
+2024-07-23,LATAM,Chile,Santiago,Frank,Online,Electronics,Tablet,9,110.18,66.98
+2024-12-08,LATAM,Chile,Santiago,Diana,Distributor,Furniture,Bookshelf,7,139.5,67.26
+2024-12-30,APAC,China,Beijing,Ivan,Distributor,Appliances,Microwave,9,372.68,243.09
+2024-12-25,North America,USA,New York,Grace,Store,Furniture,Office Chair,8,331.81,261.27
+2024-11-23,North America,USA,Los Angeles,Hiro,Distributor,Furniture,Desk,7,47.72,20.53
+2024-07-05,LATAM,Argentina,Buenos Aires,Bob,Distributor,Office Supplies,Sticky Notes,6,43.48,24.88
+2024-11-11,North America,USA,Los Angeles,Ivan,Online,Office Supplies,Planner,4,303.53,197.13
+2024-01-22,North America,Canada,Toronto,Alice,Online,Appliances,Coffee Maker,2,141.03,57.26
+2024-05-12,Europe,Germany,Berlin,Ivan,Store,Appliances,Microwave,3,192.9,120.65
+2024-06-11,LATAM,Chile,Santiago,Bob,Store,Appliances,Coffee Maker,9,356.25,229.43
+2024-12-07,LATAM,Brazil,São Paulo,Julia,Online,Electronics,Laptop,9,267.62,133.76
+2024-04-08,APAC,China,Beijing,Julia,Store,Electronics,Laptop,2,434.39,338.26
+2024-06-29,LATAM,Mexico,CDMX,Frank,Online,Electronics,Smartphone,9,85.87,66.8
+2024-11-21,LATAM,Argentina,Buenos Aires,Carlos,Store,Electronics,Headphones,6,470.14,189.31
+2024-03-22,Europe,Germany,Berlin,Hiro,Store,Appliances,Blender,8,297.92,202.72
+2024-01-23,LATAM,Brazil,São Paulo,Diana,Online,Electronics,Headphones,9,34.74,22.62
+2024-06-18,Europe,Germany,Berlin,Bob,Store,Electronics,Tablet,4,468.77,289.14
+2024-12-03,Europe,UK,London,Alice,Store,Electronics,Headphones,3,479.21,268.17
+2024-05-05,APAC,Japan,Tokyo,Ivan,Distributor,Furniture,Desk,6,488.73,215.41
+2024-05-01,North America,Canada,Toronto,Carlos,Store,Appliances,Blender,2,373.98,198.52
+2024-05-14,LATAM,Mexico,CDMX,Ivan,Distributor,Appliances,Blender,4,376.71,288.49
+2024-05-01,LATAM,Mexico,CDMX,Bob,Online,Office Supplies,Sticky Notes,4,222.86,153.64
+2024-09-26,APAC,Japan,Tokyo,Hiro,Store,Office Supplies,Pen Set,3,298.83,192.84
+2024-04-05,APAC,Japan,Tokyo,Diana,Online,Appliances,Blender,9,338.63,230.39
+2024-02-02,North America,Canada,Toronto,Alice,Online,Appliances,Coffee Maker,8,330.46,240.36
+2024-09-20,Europe,Spain,Madrid,Frank,Store,Appliances,Blender,4,16.74,8.36
+2024-09-13,LATAM,Chile,Santiago,Ivan,Store,Furniture,Lamp,9,17.75,7.65
+2024-12-03,APAC,India,Mumbai,Bob,Distributor,Electronics,Laptop,2,40.64,23.72
+2024-05-05,LATAM,Brazil,São Paulo,Julia,Online,Office Supplies,Notebook,3,115.52,73.8
+2024-10-20,LATAM,Chile,Santiago,Hiro,Store,Electronics,Monitor,2,192.38,102.58
+2024-09-11,Europe,Germany,Berlin,Alice,Store,Office Supplies,Planner,2,404.49,294.95
+2024-12-03,North America,Canada,Toronto,Julia,Online,Furniture,Office Chair,8,108.14,69.94
+2024-05-03,APAC,China,Beijing,Elena,Distributor,Electronics,Monitor,1,134.15,106.66
+2024-01-22,North America,Canada,Toronto,Alice,Distributor,Electronics,Tablet,8,43.54,23.88
+2024-07-05,LATAM,Brazil,São Paulo,Julia,Distributor,Office Supplies,Notebook,9,111.05,79.94
+2024-04-09,North America,Canada,Toronto,Frank,Online,Electronics,Laptop,7,141.74,77.59
+2024-10-03,APAC,China,Beijing,Carlos,Distributor,Electronics,Smartphone,6,431.31,178.56
+2024-11-15,Europe,Spain,Madrid,Julia,Distributor,Office Supplies,Sticky Notes,5,211.56,158.56
+2024-12-16,APAC,Japan,Tokyo,Grace,Store,Furniture,Bookshelf,6,219.52,126.67
+2024-06-08,North America,Canada,Vancouver,Grace,Online,Office Supplies,Planner,5,394.15,223.78
+2024-06-30,APAC,China,Beijing,Frank,Online,Furniture,Office Chair,6,394.7,252.43
+2024-11-21,LATAM,Mexico,CDMX,Carlos,Distributor,Electronics,Monitor,4,299.21,168.47
+2024-06-27,LATAM,Brazil,São Paulo,Carlos,Online,Furniture,Office Chair,6,23.87,11.55
+2024-06-21,APAC,India,Mumbai,Bob,Distributor,Office Supplies,Pen Set,1,384.58,216.85
+2024-09-09,North America,Canada,Vancouver,Alice,Online,Electronics,Smartphone,2,210.3,161.85
+2024-04-12,Europe,Germany,Berlin,Carlos,Online,Appliances,Microwave,5,88.63,37.95
+2024-05-19,Europe,Spain,Madrid,Grace,Online,Appliances,Blender,5,375.92,258.72
+2024-10-20,Europe,Spain,Madrid,Grace,Store,Appliances,Blender,4,228.64,165.16
+2024-12-05,LATAM,Argentina,Buenos Aires,Julia,Distributor,Furniture,Lamp,1,161.81,80.9
+2024-05-20,Europe,Germany,Berlin,Ivan,Distributor,Appliances,Coffee Maker,8,281.16,141.13
+2024-05-09,North America,Canada,Toronto,Diana,Store,Office Supplies,Planner,4,437.59,319.99
+2024-07-31,APAC,Japan,Tokyo,Alice,Distributor,Electronics,Laptop,7,476.88,253.08
+2024-12-25,North America,Canada,Toronto,Elena,Distributor,Office Supplies,Planner,1,257.76,200.14
+2024-11-17,Europe,France,Paris,Grace,Online,Office Supplies,Pen Set,1,166.12,126.49
+2024-06-25,LATAM,Chile,Santiago,Diana,Online,Furniture,Bookshelf,6,281.15,169.04
+2024-09-30,North America,USA,Los Angeles,Julia,Store,Appliances,Coffee Maker,6,265.58,190.63
+2024-07-10,North America,USA,Los Angeles,Bob,Store,Office Supplies,Pen Set,7,420.58,312.7
+2024-06-13,Europe,UK,London,Diana,Distributor,Appliances,Microwave,3,213.11,86.37
+2024-10-08,Europe,Spain,Madrid,Hiro,Store,Electronics,Headphones,9,88.58,59.3
+2024-11-11,North America,Canada,Toronto,Grace,Online,Office Supplies,Sticky Notes,4,122.5,54.76
+2024-06-28,APAC,India,Mumbai,Bob,Store,Electronics,Tablet,1,372.91,277.89
+2024-06-21,LATAM,Chile,Santiago,Carlos,Store,Electronics,Laptop,5,368.88,223.53
+2024-07-30,LATAM,Brazil,São Paulo,Elena,Distributor,Office Supplies,Sticky Notes,6,275.27,148.12
+2024-04-01,APAC,Japan,Tokyo,Elena,Distributor,Office Supplies,Notebook,3,128.35,69.53
+2024-12-17,North America,Canada,Vancouver,Julia,Distributor,Office Supplies,Notebook,3,118.96,72.29
+2024-05-26,North America,USA,New York,Alice,Distributor,Furniture,Lamp,7,38.29,21.31
+2024-05-01,North America,Canada,Vancouver,Alice,Store,Office Supplies,Sticky Notes,3,174.48,122.09
+2024-03-06,Europe,France,Paris,Alice,Distributor,Office Supplies,Sticky Notes,8,311.99,194.29
+2024-06-08,APAC,Japan,Tokyo,Julia,Store,Appliances,Microwave,1,220.18,135.71
+2024-08-27,North America,Canada,Toronto,Diana,Store,Appliances,Blender,8,354.05,165.94
+2024-04-12,Europe,UK,London,Frank,Distributor,Electronics,Smartphone,2,170.5,105.48
+2024-05-30,Europe,Germany,Berlin,Carlos,Online,Furniture,Bookshelf,1,319.4,195.79
+2024-03-05,APAC,Australia,Sydney,Julia,Store,Furniture,Desk,1,252.89,195.55
+2024-03-18,LATAM,Argentina,Buenos Aires,Ivan,Distributor,Furniture,Lamp,7,79.99,54.14
+2024-01-22,APAC,Japan,Tokyo,Julia,Store,Appliances,Microwave,7,66.0,46.59
+2024-11-20,LATAM,Brazil,São Paulo,Grace,Distributor,Office Supplies,Sticky Notes,3,110.12,66.42
+2024-10-03,Europe,Spain,Madrid,Bob,Store,Office Supplies,Pen Set,5,390.48,251.68
+2024-01-09,LATAM,Brazil,São Paulo,Grace,Store,Office Supplies,Planner,9,339.89,191.44
+2024-02-20,North America,USA,New York,Hiro,Store,Appliances,Coffee Maker,5,118.73,81.43
+2024-08-21,North America,Canada,Vancouver,Elena,Online,Furniture,Desk,9,368.35,250.08
+2024-12-03,LATAM,Chile,Santiago,Hiro,Distributor,Office Supplies,Notebook,8,419.7,305.77
+2024-08-12,APAC,Japan,Tokyo,Elena,Store,Office Supplies,Notebook,9,247.7,132.14
+2024-06-09,LATAM,Mexico,CDMX,Julia,Distributor,Office Supplies,Planner,9,270.47,163.42
+2024-09-23,Europe,Germany,Berlin,Elena,Online,Office Supplies,Pen Set,3,428.94,323.0
+2024-08-05,Europe,Germany,Berlin,Bob,Store,Appliances,Blender,3,16.55,9.33
+2024-09-09,APAC,China,Beijing,Frank,Online,Office Supplies,Sticky Notes,9,403.73,307.12
+2024-01-06,APAC,Australia,Sydney,Frank,Online,Electronics,Monitor,2,42.82,32.16
+2024-10-09,North America,Canada,Toronto,Hiro,Distributor,Furniture,Bookshelf,9,374.11,276.53
+2024-05-11,North America,USA,Los Angeles,Carlos,Store,Furniture,Desk,4,327.68,140.79
+2024-04-17,North America,Canada,Toronto,Alice,Online,Furniture,Lamp,2,261.55,208.11
+2024-10-14,APAC,Japan,Tokyo,Ivan,Store,Appliances,Blender,4,498.62,310.95
+2024-09-03,Europe,Germany,Berlin,Elena,Store,Office Supplies,Sticky Notes,3,117.85,63.66
+2024-02-27,APAC,India,Mumbai,Carlos,Store,Office Supplies,Sticky Notes,8,43.67,23.92
+2024-04-14,Europe,Spain,Madrid,Carlos,Store,Office Supplies,Pen Set,4,32.21,17.39
+2024-12-03,LATAM,Mexico,CDMX,Elena,Online,Appliances,Blender,2,334.23,198.4
+2024-05-18,Europe,Germany,Berlin,Ivan,Online,Office Supplies,Notebook,2,388.68,240.74
+2024-04-07,Europe,UK,London,Grace,Store,Electronics,Monitor,9,294.7,168.11
+2024-08-21,LATAM,Chile,Santiago,Carlos,Online,Electronics,Monitor,5,265.33,143.3
+2024-02-05,APAC,India,Mumbai,Hiro,Online,Appliances,Microwave,4,78.76,52.65
+2024-01-10,North America,USA,New York,Frank,Online,Furniture,Desk,7,334.62,180.29
+2024-07-04,LATAM,Chile,Santiago,Diana,Store,Appliances,Coffee Maker,6,377.49,288.13
+2024-04-03,LATAM,Mexico,CDMX,Elena,Online,Appliances,Blender,7,306.65,175.79
+2024-06-22,APAC,India,Mumbai,Bob,Online,Furniture,Desk,4,427.77,263.79
+2024-07-23,LATAM,Argentina,Buenos Aires,Julia,Store,Electronics,Headphones,6,199.24,126.6
+2024-10-05,North America,Canada,Vancouver,Alice,Online,Office Supplies,Planner,9,128.34,62.37
+2024-12-12,APAC,Australia,Sydney,Carlos,Store,Office Supplies,Planner,1,296.49,134.45
+2024-12-23,Europe,Spain,Madrid,Hiro,Distributor,Office Supplies,Sticky Notes,3,412.7,273.95
+2024-04-27,APAC,Australia,Sydney,Frank,Store,Electronics,Monitor,1,143.25,96.97
+2024-06-17,LATAM,Mexico,CDMX,Grace,Online,Office Supplies,Sticky Notes,3,470.14,307.73
+2024-09-07,APAC,Australia,Sydney,Diana,Distributor,Furniture,Bookshelf,1,269.07,196.52
+2024-07-23,North America,USA,Los Angeles,Bob,Store,Furniture,Desk,5,350.37,170.8
+2024-09-20,APAC,Japan,Tokyo,Frank,Distributor,Office Supplies,Notebook,4,413.65,175.91
+2024-01-09,LATAM,Brazil,São Paulo,Elena,Distributor,Furniture,Office Chair,5,409.32,291.11
+2024-04-08,APAC,Japan,Tokyo,Ivan,Online,Appliances,Coffee Maker,7,491.82,351.5
+2024-04-27,LATAM,Chile,Santiago,Diana,Online,Electronics,Monitor,5,376.44,173.25
+2024-10-15,Europe,Spain,Madrid,Grace,Distributor,Appliances,Coffee Maker,8,25.26,12.73
+2024-02-11,North America,USA,New York,Grace,Store,Furniture,Office Chair,6,213.47,161.25
+2024-02-04,LATAM,Mexico,CDMX,Elena,Online,Furniture,Lamp,5,318.72,236.89
+2024-05-05,APAC,Japan,Tokyo,Elena,Store,Appliances,Microwave,6,220.2,105.79
+2024-11-23,LATAM,Brazil,São Paulo,Alice,Online,Furniture,Lamp,8,169.39,128.8
+2024-03-16,Europe,Germany,Berlin,Hiro,Online,Furniture,Lamp,8,336.72,147.39
+2024-12-14,North America,USA,Los Angeles,Hiro,Distributor,Furniture,Office Chair,8,132.01,83.26
+2024-09-05,North America,USA,Los Angeles,Julia,Online,Appliances,Coffee Maker,6,56.51,45.18
+2024-10-15,Europe,France,Paris,Bob,Online,Electronics,Tablet,3,498.84,247.72
+2024-03-09,Europe,Spain,Madrid,Frank,Online,Office Supplies,Planner,1,480.97,363.94
+2024-06-27,APAC,China,Beijing,Ivan,Online,Furniture,Office Chair,5,394.03,246.85
+2024-01-13,Europe,Spain,Madrid,Diana,Store,Office Supplies,Sticky Notes,5,123.69,50.19
+2024-10-11,APAC,India,Mumbai,Grace,Distributor,Furniture,Office Chair,8,315.63,222.49
+2024-08-04,North America,Canada,Vancouver,Alice,Online,Electronics,Laptop,7,420.19,272.2
+2024-04-21,LATAM,Mexico,CDMX,Julia,Distributor,Office Supplies,Sticky Notes,3,469.82,265.88
+2024-04-18,Europe,Spain,Madrid,Hiro,Distributor,Furniture,Desk,3,294.67,234.64
+2024-04-08,APAC,Japan,Tokyo,Diana,Distributor,Furniture,Desk,3,226.72,154.84
+2024-07-04,North America,USA,New York,Alice,Distributor,Appliances,Blender,9,122.15,78.02
+2024-11-30,North America,Canada,Toronto,Bob,Online,Electronics,Monitor,8,195.77,107.4
+2024-05-27,North America,USA,Los Angeles,Carlos,Online,Furniture,Desk,5,320.21,188.19
+2024-10-30,North America,USA,New York,Frank,Store,Electronics,Headphones,5,490.75,323.8
+2024-02-05,North America,Canada,Toronto,Carlos,Online,Office Supplies,Pen Set,1,235.97,183.11
+2024-01-20,LATAM,Argentina,Buenos Aires,Grace,Store,Furniture,Office Chair,2,187.59,139.84
+2024-08-20,LATAM,Brazil,São Paulo,Bob,Online,Electronics,Tablet,8,471.43,220.13
+2024-08-16,APAC,India,Mumbai,Alice,Distributor,Furniture,Desk,5,36.65,24.1
+2024-02-23,North America,USA,New York,Carlos,Online,Appliances,Blender,9,327.83,167.23
+2024-09-27,North America,USA,Los Angeles,Bob,Store,Furniture,Bookshelf,3,376.42,272.57
+2024-02-08,Europe,France,Paris,Bob,Distributor,Appliances,Coffee Maker,1,97.88,66.76
+2024-09-13,North America,USA,New York,Hiro,Distributor,Office Supplies,Planner,6,294.07,170.9
+2024-09-11,APAC,Australia,Sydney,Elena,Distributor,Furniture,Lamp,2,19.38,13.79
+2024-01-23,APAC,China,Beijing,Julia,Distributor,Office Supplies,Sticky Notes,7,94.0,54.65
+2024-08-13,LATAM,Chile,Santiago,Elena,Online,Appliances,Microwave,8,403.38,316.4
+2024-08-07,Europe,UK,London,Elena,Distributor,Office Supplies,Notebook,3,323.13,252.5
+2024-09-03,North America,Canada,Toronto,Julia,Store,Furniture,Lamp,2,290.58,148.43
+2024-10-10,North America,Canada,Toronto,Grace,Store,Office Supplies,Pen Set,4,48.49,33.76
+2024-01-17,APAC,China,Beijing,Julia,Distributor,Office Supplies,Notebook,8,301.1,205.07
+2024-10-15,LATAM,Argentina,Buenos Aires,Ivan,Distributor,Appliances,Coffee Maker,8,123.09,94.32
+2024-12-24,Europe,France,Paris,Bob,Online,Furniture,Lamp,4,441.68,332.66
+2024-08-31,North America,USA,Los Angeles,Frank,Distributor,Furniture,Bookshelf,7,255.77,202.18
+2024-06-17,Europe,Germany,Berlin,Bob,Distributor,Electronics,Laptop,8,106.36,73.92
+2024-04-01,APAC,Japan,Tokyo,Alice,Store,Office Supplies,Notebook,8,443.45,199.59
+2024-08-26,LATAM,Mexico,CDMX,Elena,Online,Office Supplies,Notebook,3,24.71,18.75
+2024-09-08,LATAM,Mexico,CDMX,Alice,Store,Office Supplies,Planner,7,313.31,243.23
+2024-07-22,Europe,UK,London,Diana,Store,Furniture,Office Chair,5,40.57,21.67
+2024-11-15,APAC,India,Mumbai,Alice,Online,Electronics,Headphones,7,223.34,124.71
+2024-09-21,Europe,UK,London,Carlos,Online,Appliances,Microwave,1,427.75,331.59
+2024-02-22,North America,Canada,Toronto,Carlos,Online,Electronics,Headphones,3,280.42,200.71
+2024-10-28,Europe,Germany,Berlin,Frank,Online,Office Supplies,Pen Set,7,113.29,55.71
+2024-01-05,APAC,China,Beijing,Diana,Online,Appliances,Coffee Maker,4,37.06,28.79
+2024-07-07,North America,Canada,Toronto,Frank,Distributor,Furniture,Office Chair,4,224.84,137.59
+2024-05-11,APAC,Japan,Tokyo,Ivan,Online,Furniture,Desk,5,382.05,300.71
+2024-06-11,Europe,UK,London,Bob,Online,Appliances,Blender,8,14.27,6.6
+2024-04-27,LATAM,Chile,Santiago,Hiro,Store,Furniture,Office Chair,8,117.66,48.03
+2024-07-08,APAC,Japan,Tokyo,Ivan,Distributor,Appliances,Coffee Maker,7,189.14,102.42
+2024-08-17,LATAM,Argentina,Buenos Aires,Frank,Online,Electronics,Headphones,4,113.15,81.88
+2024-12-25,Europe,Germany,Berlin,Julia,Distributor,Electronics,Tablet,2,177.9,132.69
+2024-04-28,Europe,France,Paris,Frank,Online,Appliances,Blender,8,50.54,30.01
+2024-06-21,LATAM,Chile,Santiago,Ivan,Online,Office Supplies,Sticky Notes,7,356.27,230.47
+2024-02-25,North America,Canada,Vancouver,Elena,Online,Electronics,Headphones,5,244.46,174.11
+2024-03-02,North America,Canada,Toronto,Frank,Online,Office Supplies,Planner,8,315.76,160.87
+2024-08-26,APAC,Australia,Sydney,Hiro,Store,Appliances,Blender,7,50.31,29.37
+2024-04-07,APAC,China,Beijing,Elena,Online,Electronics,Headphones,9,360.44,184.82
+2024-08-02,LATAM,Brazil,São Paulo,Elena,Distributor,Office Supplies,Planner,2,234.63,161.9
+2024-06-06,Europe,France,Paris,Alice,Online,Office Supplies,Notebook,2,336.93,239.5
+2024-04-10,APAC,Japan,Tokyo,Julia,Distributor,Furniture,Desk,7,421.65,335.54
+2024-11-09,APAC,India,Mumbai,Bob,Store,Appliances,Blender,9,470.81,191.3
+2024-03-13,LATAM,Brazil,São Paulo,Elena,Distributor,Electronics,Laptop,5,249.8,174.02
+2024-12-05,Europe,Spain,Madrid,Carlos,Distributor,Electronics,Smartphone,6,420.73,229.11
+2024-12-29,LATAM,Argentina,Buenos Aires,Frank,Distributor,Office Supplies,Planner,3,401.86,180.55

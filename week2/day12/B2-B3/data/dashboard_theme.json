@@ -1,0 +1,13 @@
+{
+  "name": "Bootcamp Professional Theme",
+  "dataColors": [
+    "#3A7CA5", 
+    "#F4A261", 
+    "#2A9D8F", 
+    "#E76F51", 
+    "#E9ECEF"
+  ],
+  "background": "#1E1E2F",
+  "foreground": "#E9ECEF",
+  "tableAccent": "#3A7CA5"
+}
