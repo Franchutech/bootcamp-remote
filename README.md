@@ -2,7 +2,7 @@
 
 This repository documents my **5-week personal bootcamp**, focused on building a **job-ready junior profile** for roles in **Data, Automation, and Backend basics**.  
 
-It combines **Python, SQL, APIs, Excel/Power Query, and Power BI**, with step-by-step projects and full documentation.  
+It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI**, with step-by-step projects and full documentation.  
 
 ---
 
@@ -16,7 +16,7 @@ It combines **Python, SQL, APIs, Excel/Power Query, and Power BI**, with step-by
 
 ## 📂 Repository structure
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
-- `week2/` → Data analysis, visualization, APIs, and Power BI dashboards.  
+- `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
 - `week3/` → *(upcoming)* Automation and Web Scraping.  
 - `week4/` → *(upcoming)* Open Data projects.  
 - `week5/` → *(upcoming)* Final project and portfolio presentation.  
@@ -46,3 +46,4 @@ Each week includes its own `README.md` with daily progress and exercises.
 ---
 
 ✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects.
+

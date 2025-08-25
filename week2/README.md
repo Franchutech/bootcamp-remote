@@ -40,3 +40,8 @@
 
   ![UrbanMove Dashboard](./day13/B2/urbanmove_PBI_Dashboard.png)
 
+- **Día 14 (Domingo):**  
+  Jornada de repaso y cierre de la semana.  
+  - **NumPy y Pandas:** 10 ejercicios extra realizados en script Python (`B1_pandas_numpy_review.py`), abarcando arrays, operaciones estadísticas, matrices, transposición y creación de DataFrames.  
+  - **Organización del repositorio:** verificación de estructura, limpieza de carpetas y actualización de README.  
+  - Preparación de la siguiente semana (SQL intermedio, Python intermedio y DevOps básico).
