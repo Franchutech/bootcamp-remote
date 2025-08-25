@@ -1,58 +1,48 @@
 # 🚀 Bootcamp Remote — Portfolio & Learning Journey  
 
-This repository contains all exercises, projects, and documentation created during an intensive 5-week self-training program.  
-The goal is to build a job-ready profile for **Remote Junior Roles** in **Data / Automation / Basic Backend**.  
+This repository documents my **5-week personal bootcamp**, focused on building a **job-ready junior profile** for roles in **Data, Automation, and Backend basics**.  
 
-All work is organized in folders by week, including:  
-- Learning notes  
-- Practice exercises  
-- Projects with full documentation  
+It combines **Python, SQL, APIs, Excel/Power Query, and Power BI**, with step-by-step projects and full documentation.  
 
----  
+---
 
-## ✅ Environment Setup Checklist  
+## 🎯 Goals
+- Build a strong public portfolio on GitHub.  
+- Practice a professional workflow (VS Code + Git + GitHub + WSL).  
+- Create reproducible projects with clear documentation.  
+- Achieve a competitive level for **remote junior data roles**.  
 
-- [x] Git installed and configured  
-- [x] GitHub account linked  
-- [x] VS Code installed with extensions  
-- [x] Python installed (3.12.3)  
-- [x] WSL + Ubuntu terminal installed  
-- [x] MySQL installed and configured  
-- [x] Repository structure created  
+---
 
----  
+## 📂 Repository structure
+- `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
+- `week2/` → Data analysis, visualization, APIs, and Power BI dashboards.  
+- `week3/` → *(upcoming)* Automation and Web Scraping.  
+- `week4/` → *(upcoming)* Open Data projects.  
+- `week5/` → *(upcoming)* Final project and portfolio presentation.  
 
-## 📅 Progress Overview  
+Each week includes its own `README.md` with daily progress and exercises.
 
-### ✅ Week 1 — Fundamentals, Python, SQL & Excel  
+---
 
-**Summary:**  
-The first week focused on setting up a professional development environment and acquiring solid foundations in data handling and automation tools.  
+## 🌟 Featured Projects
 
-**Main achievements:**  
-- Full environment setup (WSL + Ubuntu, VS Code, Git/GitHub, Python 3.12, MySQL).  
-- Strong foundation in **Python**: variables, conditionals, loops, data structures, file handling, JSON/CSV parsing, pandas introduction, and debugging with breakpoints.  
-- Hands-on practice in **SQL (MySQL)**: database creation, CRUD operations, and sales queries.  
-- Advanced **Excel & Power Query** project: creation of a professional sales dashboard with KPIs, slicers, charts, and interactive navigation.  
-- First **ETL pipeline** implemented with Python + pandas (extract, transform, load a dataset into CSV).  
+- **Excel Advanced Dashboard (ElectraGo, fictitious company)**  
+  ![Excel Dashboard](./week1/day4/B3/img/dashboard_full.png)
 
-📎 **Detailed progress and daily documentation:** [Week 1 →](./week1/README.md)  
+- **Power BI Dashboard — Revenue & Profit (GlobalMart, fictitious company)**  
+  ![Revenue & Profit Dashboard](./week2/day12/B2-B3/revenueandprofit_by_region.png)
 
----  
+- **UrbanMove Dashboard (Open Data API – Santander Bus Stops)**  
+  ![UrbanMove Dashboard](./week2/day13/B2/urbanmove_PBI_Dashboard.png)
 
-### 🚧 Week 2 — Data Handling & Visualization (in progress)  
+---
 
-**Summary:**  
-The second week focuses on strengthening Python data analysis, learning data visualization, working with external APIs, and building interactive dashboards in Power BI.  
+## 📎 Weekly Documentation
+- [Week 1 →](./week1/README.md)  
+- [Week 2 →](./week2/README.md)  
+*(next weeks will be updated in this repository)*  
 
-**Main achievements so far (Days 8–12):**  
-- **Day 8:** Pandas — reading CSV/JSON files, data inspection, selection (loc/iloc), cleaning (nulls, duplicates, types, dates). Notebook with 20 guided exercises.  
-- **Day 9:** NumPy basics (arrays, shape, broadcasting). Pandas advanced operations: groupby, aggregations, joins. Practical KPIs (averages, top N, trends).  
-- **Day 10:** Data visualization introduction.  
-  - **Matplotlib:** line, bar, histogram, and subplot charts with full customization.  
-  - **Seaborn:** statistical plots (catplot, histplot, heatmap of correlations).  
-  - **Notebook viz.ipynb:** 6–8 visualizations documented as a professional report.  
-- **Day 11:** APIs — introduction to Postman, HTTP requests, tokens and headers. Transition to Python (requests) with real use cases: JSONPlaceholder, NASA APOD, Countries, AviationStack (flights), and MET Museum (art). Data saved in JSON/CSV with clear documentation.  
-- **Day 12:** Power BI — first interactive dashboard. Data import and cleaning, creation of DAX measures for KPIs (Revenue, Profit, Margin, Orders, AOV), and design of a corporate-style dashboard with cards, clustered charts, donut chart, line chart, and a filled map visualization.  
+---
 
-📎 **Detailed progress and daily documentation:** [Week 2 →](./week2/README.md)  
+✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects.

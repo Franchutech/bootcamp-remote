@@ -28,3 +28,15 @@
 
   ![Dashboard Preview](./day12/B2-B3/revenueandprofit_by_region.png)
 
+- **Día 13 (Sábado):**  
+  Proyecto 2 **“UrbanMove – Open Data Dashboard”**.  
+  - Conexión a la **API de datos abiertos de Santander** (`paradas_bus.json`).  
+  - **Pipeline en Python**: extracción, limpieza, normalización de lat/long y exportación a CSV.  
+  - **Integración en Power BI**:  
+    - KPIs: Total de paradas, Total de sentidos, Promedio de paradas por sentido.  
+    - **Mapa interactivo** con segmentador por sentido.  
+    - **Top 10 sentidos con más paradas** (gráfico de barras).  
+  - Exportación final: `.pbix`, `.png` y documentación en README.  
+
+  ![UrbanMove Dashboard](./day13/B2/urbanmove_PBI_Dashboard.png)
+
