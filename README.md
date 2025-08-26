@@ -17,9 +17,10 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 ## 📂 Repository structure
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
 - `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
-- `week3/` → *(upcoming)* Automation and Web Scraping.  
+- `week3/` → SQL with PostgreSQL: installation and setup, ER modeling, normalization (3FN), relational tables, and JOIN queries. Includes an **e-commerce practice project** with customers, products, orders and sales reports.  
 - `week4/` → *(upcoming)* Open Data projects.  
 - `week5/` → *(upcoming)* Final project and portfolio presentation.  
+
 
 Each week includes its own `README.md` with daily progress and exercises.
 
@@ -41,6 +42,7 @@ Each week includes its own `README.md` with daily progress and exercises.
 ## 📎 Weekly Documentation
 - [Week 1 →](./week1/README.md)  
 - [Week 2 →](./week2/README.md)  
+- [Week 3 →](./week3/README.md)
 *(next weeks will be updated in this repository)*  
 
 ---
