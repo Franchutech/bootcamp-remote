@@ -17,7 +17,7 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 ## 📂 Repository structure
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
 - `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
-- `week3/` → SQL with PostgreSQL: installation and setup, ER modeling, normalization (3FN), relational tables, and JOIN queries. Includes an **e-commerce practice project** with customers, products, orders and sales reports.  
+- `week3/` → SQL with PostgreSQL: installation and setup, ER modeling, normalization (3FN), relational tables, and JOIN queries. Includes an **e-commerce practice project** with customers, products, orders and sales reports, plus a **refactored ETL** organized in `src/` with modular steps (extract, transform, load) and a CLI entrypoint.
 - `week4/` → *(upcoming)* Open Data projects.  
 - `week5/` → *(upcoming)* Final project and portfolio presentation.  
 
