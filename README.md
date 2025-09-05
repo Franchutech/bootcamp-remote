@@ -17,16 +17,21 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 ## 📂 Repository structure
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
 - `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
-- `week3/` → SQL with PostgreSQL: installation and setup, ER modeling, normalization (3FN), relational tables, and JOIN queries. Includes an **e-commerce practice project** with customers, products, orders and sales reports, plus a **refactored ETL** organized in `src/` with modular steps (extract, transform, load) and a CLI entrypoint.
+- `week3/` → SQL with PostgreSQL: installation and setup, ER modeling, normalization (3FN), relational tables, and JOIN queries.  
+  - Includes an **e-commerce practice project** with customers, products, orders and sales reports.  
+  - A **refactored ETL pipeline** organized in `src/` with modular steps (extract, transform, load) and CLI execution.  
+  - Final project of the week: **NovaRetail Dashboard in Power BI** (KPIs, sales by category, Top 5 products).  
 - `week4/` → *(upcoming)* Open Data projects.  
 - `week5/` → *(upcoming)* Final project and portfolio presentation.  
-
 
 Each week includes its own `README.md` with daily progress and exercises.
 
 ---
 
 ## 🌟 Featured Projects
+
+- **NovaRetail Dashboard (Power BI – fictitious retail company)**  
+  ![NovaRetail Dashboard](./week3/day19/B3/NovaRetail_Sales_Dashboard.png)
 
 - **Excel Advanced Dashboard (ElectraGo, fictitious company)**  
   ![Excel Dashboard](./week1/day4/B3/img/dashboard_full.png)
@@ -42,10 +47,9 @@ Each week includes its own `README.md` with daily progress and exercises.
 ## 📎 Weekly Documentation
 - [Week 1 →](./week1/README.md)  
 - [Week 2 →](./week2/README.md)  
-- [Week 3 →](./week3/README.md)
+- [Week 3 →](./week3/README.md)  
 *(next weeks will be updated in this repository)*  
 
 ---
 
 ✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects.
-

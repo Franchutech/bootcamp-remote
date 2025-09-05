@@ -1,0 +1,16 @@
+{
+  "name": "NovaRetail Luxury Minimal",
+  "dataColors": [
+    "#005377",
+    "#00344A",
+    "#C0C7C9",
+    "#1A1A1A",
+    "#2ECC71",
+    "#E74C3C",
+    "#F1C40F",
+    "#5DADE2"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A1A",
+  "tableAccent": "#005377"
+}
