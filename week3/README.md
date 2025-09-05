@@ -48,4 +48,5 @@
 - `NovaRetail_Sales_Dashboard.pbix` → Interactive dashboard  
 - `NovaRetail_Sales_Dashboard.png` → Final dashboard preview  
 
-![NovaRetail Dashboard](./week3/day19/B3/NovaRetail_Sales_Dashboard.png)
+![NovaRetail Dashboard](./day19/B3/NovaRetail_Sales_Dashboard.png)
+
