@@ -1,6 +1,6 @@
 # 🚀 Bootcamp Remote — Portfolio & Learning Journey  
 
-This repository documents my **5-week personal bootcamp**, focused on building a **job-ready junior profile** for roles in **Data, Automation, and Backend basics**.  
+This repository documents my **4-week personal bootcamp**, focused on building a **job-ready junior profile** for roles in **Data Analysis**.  
 
 It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI**, with step-by-step projects and full documentation.  
 
@@ -10,19 +10,17 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 - Build a strong public portfolio on GitHub.  
 - Practice a professional workflow (VS Code + Git + GitHub + WSL).  
 - Create reproducible projects with clear documentation.  
-- Achieve a competitive level for **remote junior data roles**.  
+- Strengthen my profile as a **Data Analyst**, combining previous professional experience with new technical skills in Python, SQL, and Business Intelligence.  
+- Keep learning and practicing through personal projects to stay updated with modern tools and methodologies.  
+
 
 ---
 
 ## 📂 Repository structure
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
 - `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
-- `week3/` → SQL with PostgreSQL: installation and setup, ER modeling, normalization (3FN), relational tables, and JOIN queries.  
-  - Includes an **e-commerce practice project** with customers, products, orders and sales reports.  
-  - A **refactored ETL pipeline** organized in `src/` with modular steps (extract, transform, load) and CLI execution.  
-  - Final project of the week: **NovaRetail Dashboard in Power BI** (KPIs, sales by category, Top 5 products).  
-- `week4/` → *(upcoming)* Open Data projects.  
-- `week5/` → *(upcoming)* Final project and portfolio presentation.  
+- `week3/` → SQL with PostgreSQL, ER modeling and normalization (3NF), advanced queries, and the **NovaRetail Dashboard** in Power BI.  
+- `week4/` → ETL advanced with Pandas & SQLAlchemy, SQL business queries, NumPy, statistics, exploratory analysis, and a simple ML model (scikit-learn).  
 
 Each week includes its own `README.md` with daily progress and exercises.
 
@@ -48,8 +46,8 @@ Each week includes its own `README.md` with daily progress and exercises.
 - [Week 1 →](./week1/README.md)  
 - [Week 2 →](./week2/README.md)  
 - [Week 3 →](./week3/README.md)  
-*(next weeks will be updated in this repository)*  
+- [Week 4 →](./week4/README.md)  
 
 ---
 
-✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects.
+✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects in Data Analysis.  
