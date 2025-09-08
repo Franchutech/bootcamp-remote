@@ -1,6 +1,7 @@
 # 🚀 Bootcamp Remote — Portfolio & Learning Journey  
 
-This repository documents my **4-week personal bootcamp**, focused on building a **job-ready junior profile** for roles in **Data Analysis**.  
+This repository documents my **4-week personal bootcamp**, focused on strengthening my profile as a **Data Analyst** through hands-on projects and modern tools.
+ 
 
 It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI**, with step-by-step projects and full documentation.  
 
@@ -31,14 +32,17 @@ Each week includes its own `README.md` with daily progress and exercises.
 - **NovaRetail Dashboard (Power BI – fictitious retail company)**  
   ![NovaRetail Dashboard](./week3/day19/B3/NovaRetail_Sales_Dashboard.png)
 
-- **Excel Advanced Dashboard (ElectraGo, fictitious company)**  
-  ![Excel Dashboard](./week1/day4/B3/img/dashboard_full.png)
+
+- **UrbanMove Dashboard (Open Data API – Santander Bus Stops)**  
+  ![UrbanMove Dashboard](./week2/day13/B2/urbanmove_PBI_Dashboard.png)
+
 
 - **Power BI Dashboard — Revenue & Profit (GlobalMart, fictitious company)**  
   ![Revenue & Profit Dashboard](./week2/day12/B2-B3/revenueandprofit_by_region.png)
 
-- **UrbanMove Dashboard (Open Data API – Santander Bus Stops)**  
-  ![UrbanMove Dashboard](./week2/day13/B2/urbanmove_PBI_Dashboard.png)
+
+- **Excel Advanced Dashboard (ElectraGo, fictitious company)**  
+  ![Excel Dashboard](./week1/day4/B3/img/dashboard_full.png)
 
 ---
 
