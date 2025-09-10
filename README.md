@@ -55,3 +55,14 @@ Each week includes its own `README.md` with daily progress and exercises.
 ---
 
 ✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects in Data Analysis.  
+
+---
+
+## ✅ Status: Completed
+
+This 4-week Bootcamp has been **successfully completed** 🎉.  
+All weekly exercises, documentation, and deliverables are available in this repository.  
+
+👉 Next step: moving into **independent, professional-level projects**, applying these skills to real-world datasets and use cases.  
+
+Stay tuned for the upcoming repositories! 🚀
