@@ -1,4 +1,4 @@
-# 📅 Week 2 Summary (Days 8 to 14)
+#  Week 2 Summary (Days 8 to 14)
 
 - **Day 8 (Monday):**  
   Work with Pandas: file reading, data inspection, and basic cleaning.  

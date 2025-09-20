@@ -1,4 +1,4 @@
-# 📅 Week 4 Summary (Days 20 to 24)
+#  Week 4 Summary (Days 20 to 24)
 
 ## Day 20 (Monday)
 - **ETL with Pandas**: advanced cleaning of missing values, duplicates, dates, and categorical variables.  

@@ -1,4 +1,4 @@
-# 📅 Week 3 Summary (Days 15 to 19)
+# Week 3 Summary (Days 15 to 19)
 
 ## Day 15 (Monday)
 - **PostgreSQL Introduction**: installation on Ubuntu WSL, creation of user and database `bootcamp_db`.  

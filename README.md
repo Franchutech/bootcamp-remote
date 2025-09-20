@@ -1,4 +1,4 @@
-# 🚀 Bootcamp Remote — Portfolio & Learning Journey  
+# Bootcamp Remote — Portfolio & Learning Journey  
 
 This repository documents my **4-week personal bootcamp**, focused on strengthening my profile as a **Data Analyst** through hands-on projects and modern tools.
  
@@ -7,7 +7,7 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 
 ---
 
-## 🎯 Goals
+## Goals
 - Build a strong public portfolio on GitHub.  
 - Practice a professional workflow (VS Code + Git + GitHub + WSL).  
 - Create reproducible projects with clear documentation.  
@@ -17,7 +17,7 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 
 ---
 
-## 📂 Repository structure
+## Repository structure
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
 - `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
 - `week3/` → SQL with PostgreSQL, ER modeling and normalization (3NF), advanced queries, and the **NovaRetail Dashboard** in Power BI.  
@@ -27,7 +27,7 @@ Each week includes its own `README.md` with daily progress and exercises.
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 - **NovaRetail Dashboard (Power BI – fictitious retail company)**  
   ![NovaRetail Dashboard](./week3/day19/B3/NovaRetail_Sales_Dashboard.png)
@@ -46,7 +46,7 @@ Each week includes its own `README.md` with daily progress and exercises.
 
 ---
 
-## 📎 Weekly Documentation
+## Weekly Documentation
 - [Week 1 →](./week1/README.md)  
 - [Week 2 →](./week2/README.md)  
 - [Week 3 →](./week3/README.md)  
@@ -54,15 +54,15 @@ Each week includes its own `README.md` with daily progress and exercises.
 
 ---
 
-✍️ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects in Data Analysis.  
+ This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects in Data Analysis.  
 
 ---
 
-## ✅ Status: Completed
+## Status: Completed
 
-This 4-week Bootcamp has been **successfully completed** 🎉.  
+This 4-week Bootcamp has been **successfully completed** .  
 All weekly exercises, documentation, and deliverables are available in this repository.  
 
-👉 Next step: moving into **independent, professional-level projects**, applying these skills to real-world datasets and use cases.  
+ Next step: moving into **independent, professional-level projects**, applying these skills to real-world datasets and use cases.  
 
-Stay tuned for the upcoming repositories! 🚀
+Stay tuned for the upcoming repositories! 
