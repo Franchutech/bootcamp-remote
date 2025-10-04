@@ -10,23 +10,30 @@ It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI*
 
 <table>
   <tr>
-    <td align="center"><strong>Excel Dashboard</strong></td>
     <td align="center"><strong>Power BI – NovaRetail</strong></td>
     <td align="center"><strong>Power BI – GlobalMart</strong></td>
     <td align="center"><strong>Power BI – UrbanMove</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="week1/day4/B3/img/dashboard_full.png" width="230">
+      <img src="week3/day19/B3/NovaRetail_Sales_Dashboard.png" width="270">
     </td>
     <td align="center">
-      <img src="week3/day19/B3/NovaRetail_Sales_Dashboard.png" width="230">
+      <img src="week2/day12/B2-B3/revenueandprofit_by_region.png" width="270">
     </td>
     <td align="center">
-      <img src="week2/day12/B2-B3/revenueandprofit_by_region.png" width="230">
+      <img src="week2/day13/B2/urbanmove_PBI_Dashboard.png" width="270">
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><strong>Excel Dashboard – ElectraGo</strong></td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="week2/day13/B2/urbanmove_PBI_Dashboard.png" width="230">
+      <img src="week1/day4/B3/img/dashboard_full.png" width="400">
     </td>
   </tr>
 </table>
