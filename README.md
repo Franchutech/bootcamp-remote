@@ -1,68 +1,79 @@
-# Bootcamp Remote — Portfolio & Learning Journey  
+# Bootcamp Remote — Portfolio & Learning Journey
 
-This repository documents my **4-week personal bootcamp**, focused on strengthening my profile as a **Data Analyst** through hands-on projects and modern tools.
- 
+This repository documents my **4-week personal bootcamp**, focused on strengthening my profile as a **Data Analyst** through hands-on projects and modern tools.  
 
 It combines **Python, NumPy, Pandas, SQL, APIs, Excel/Power Query, and Power BI**, with step-by-step projects and full documentation.  
 
 ---
 
-## Goals
-- Build a strong public portfolio on GitHub.  
-- Practice a professional workflow (VS Code + Git + GitHub + WSL).  
-- Create reproducible projects with clear documentation.  
-- Strengthen my profile as a **Data Analyst**, combining previous professional experience with new technical skills in Python, SQL, and Business Intelligence.  
-- Keep learning and practicing through personal projects to stay updated with modern tools and methodologies.  
+## Featured Projects
 
+<table>
+  <tr>
+    <td align="center"><strong>Excel Dashboard</strong></td>
+    <td align="center"><strong>Power BI – NovaRetail</strong></td>
+    <td align="center"><strong>Power BI – GlobalMart</strong></td>
+    <td align="center"><strong>Power BI – UrbanMove</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="week1/day4/B3/img/dashboard_full.png" width="230">
+    </td>
+    <td align="center">
+      <img src="week3/day19/B3/NovaRetail_Sales_Dashboard.png" width="230">
+    </td>
+    <td align="center">
+      <img src="week2/day12/B2-B3/revenueandprofit_by_region.png" width="230">
+    </td>
+    <td align="center">
+      <img src="week2/day13/B2/urbanmove_PBI_Dashboard.png" width="230">
+    </td>
+  </tr>
+</table>
+
+
+**Highlights:**  
+- Real-world projects in **Excel, Power BI, SQL, and Python**.  
+- KPI design, data modeling, ETL pipelines, and API integration.  
+- All datasets, scripts, and visualizations are included in this repository.
 
 ---
 
-## Repository structure
+## Goals
+
+- Build a strong public portfolio on GitHub.  
+- Practice a professional workflow (VS Code + Git + GitHub + WSL).  
+- Create reproducible projects with clear documentation.  
+- Strengthen my profile as a **Data Analyst**, combining previous professional experience with new technical skills.  
+- Keep learning and practicing through personal projects to stay updated with modern tools and methodologies.  
+
+---
+
+## Repository Structure
+
 - `week1/` → Fundamentals (Python, SQL, Excel/Power Query, first ETL).  
 - `week2/` → Data analysis with NumPy & Pandas, data visualization (Matplotlib/Seaborn), APIs, and Power BI dashboards.  
 - `week3/` → SQL with PostgreSQL, ER modeling and normalization (3NF), advanced queries, and the **NovaRetail Dashboard** in Power BI.  
-- `week4/` → ETL advanced with Pandas & SQLAlchemy, SQL business queries, NumPy, statistics, exploratory analysis, and a simple ML model (scikit-learn).  
+- `week4/` → ETL advanced with Pandas & SQLAlchemy, SQL business queries, statistics, exploratory analysis, and a simple ML model (scikit-learn).  
 
 Each week includes its own `README.md` with daily progress and exercises.
 
 ---
 
-## Featured Projects
-
-- **NovaRetail Dashboard (Power BI – fictitious retail company)**  
-  ![NovaRetail Dashboard](./week3/day19/B3/NovaRetail_Sales_Dashboard.png)
-
-
-- **UrbanMove Dashboard (Open Data API – Santander Bus Stops)**  
-  ![UrbanMove Dashboard](./week2/day13/B2/urbanmove_PBI_Dashboard.png)
-
-
-- **Power BI Dashboard — Revenue & Profit (GlobalMart, fictitious company)**  
-  ![Revenue & Profit Dashboard](./week2/day12/B2-B3/revenueandprofit_by_region.png)
-
-
-- **Excel Advanced Dashboard (ElectraGo, fictitious company)**  
-  ![Excel Dashboard](./week1/day4/B3/img/dashboard_full.png)
-
----
-
 ## Weekly Documentation
-- [Week 1 →](./week1/README.md)  
-- [Week 2 →](./week2/README.md)  
-- [Week 3 →](./week3/README.md)  
-- [Week 4 →](./week4/README.md)  
 
----
-
- This repository reflects a **real learning journey**, building not just exercises but a portfolio of professional projects in Data Analysis.  
+- [Week 1 →](week1/README.md)  
+- [Week 2 →](week2/README.md)  
+- [Week 3 →](week3/README.md)  
+- [Week 4 →](week4/README.md)  
 
 ---
 
 ## Status: Completed
 
-This 4-week Bootcamp has been **successfully completed** .  
-All weekly exercises, documentation, and deliverables are available in this repository.  
+This 4-week Bootcamp has been successfully completed.  
+All exercises, documentation, and deliverables are available in this repository.  
 
- Next step: moving into **independent, professional-level projects**, applying these skills to real-world datasets and use cases.  
+Next step: moving into independent, professional-level projects, applying these skills to real-world datasets and use cases.
 
-Stay tuned for the upcoming repositories! 
+---
