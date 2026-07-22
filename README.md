@@ -1,4 +1,4 @@
-# Bootcamp Remote — Portfolio & Learning Journey
+# Bootcamp - POWER BI | ADVANCED EXCEL | PYTHON | SQL
 
 This repository documents my **4-week personal bootcamp**, focused on strengthening my profile as a **Data Analyst** through hands-on projects and modern tools.  
 
